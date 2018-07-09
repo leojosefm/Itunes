@@ -11,13 +11,13 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import dateutil.parser ## for pariseing date
 
-
+## Logging ##############
 cwd = os.getcwd()
 timestr = time.strftime("%Y%m%d%H%M%S")
 logfile = cwd+'\logs\\'+timestr+'_itunes_api.log'
-
 logging.basicConfig(filename=logfile+'.log',format='%(levelname)s ; %(asctime)s ; %(message)s',level=20) ### Log file
 logging.info('Process started')
+#############################
 
 ##### Step 1 : Connect to Oracle Database#########
 user = 'itunes'
@@ -103,11 +103,4 @@ for index, row in df_artists.iterrows():
         conn.commit()
         
 conn.commit()          
-        
-
-
-
-
-
-  
-    
+       
