@@ -1,6 +1,6 @@
 # Itunes
 ## Parsing Itunes library XML using Python
-This project is created to learn XML parsing using Python. The folks who are familiar with Itunes library XML would know iTunes library file as pairs of key values instead of more meaningful XML tags
+This project is created with the aim of learning XML parsing using Python. Also the folks who are familiar with Itunes library XML would know iTunes library file as pairs of key values instead of more meaningful XML tags. So the main script "myitunes.py" can be used for fetching meaningful informations from itunes library
 It also use itunes webservice to update an aritists top albums, primary genre etc.
 
 ## Script
