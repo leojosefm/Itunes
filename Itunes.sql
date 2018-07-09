@@ -1,6 +1,7 @@
 --------------------------------------------------------
 --  File created - Monday-July-09-2018   
 --------------------------------------------------------
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Sequence SEQ_MYALBUM
 --------------------------------------------------------
@@ -19,6 +20,26 @@
 --------------------------------------------------------
 --  DDL for Table BATCH_MYLIB
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Sequence SEQ_MYALBUM
+--------------------------------------------------------
+
+   CREATE SEQUENCE  "ITUNES"."SEQ_MYALBUM"  MINVALUE 1 MAXVALUE 9999999999999999999999999999 INCREMENT BY 1 START WITH 1161 CACHE 20 NOORDER  NOCYCLE ;
+--------------------------------------------------------
+--  DDL for Sequence SEQ_MYARTIST
+--------------------------------------------------------
+
+   CREATE SEQUENCE  "ITUNES"."SEQ_MYARTIST"  MINVALUE 1 MAXVALUE 9999999999999999999999999999 INCREMENT BY 1 START WITH 1921 CACHE 20 NOORDER  NOCYCLE ;
+--------------------------------------------------------
+--  DDL for Sequence SEQ_MYGENRE
+--------------------------------------------------------
+
+   CREATE SEQUENCE  "ITUNES"."SEQ_MYGENRE"  MINVALUE 1 MAXVALUE 9999999999999999999999999999 INCREMENT BY 1 START WITH 121 CACHE 20 NOORDER  NOCYCLE ;
+--------------------------------------------------------
+--  DDL for Table BATCH_MYLIB
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."BATCH_MYLIB" 
    (	"BATCH_NO" NUMBER, 
@@ -33,9 +54,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table BKP_MYARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table BKP_MYARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."BKP_MYARTISTS" 
    (	"ARTIST_SID" NUMBER, 
@@ -52,9 +79,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYALBUM
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYALBUM
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYALBUM" 
    (	"ALBUM_ID" NUMBER, 
@@ -64,9 +97,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYARTISTS" 
    (	"ARTIST_SID" NUMBER, 
@@ -83,9 +122,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYGENRE
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYGENRE
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYGENRE" 
    (	"GENRE_ID" NUMBER, 
@@ -95,9 +140,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYGENRE_ARTIST
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYGENRE_ARTIST
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYGENRE_ARTIST" 
    (	"GENRE_ID" NUMBER, 
@@ -109,9 +160,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYLIBRARY
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYLIBRARY
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYLIBRARY" 
    (	"TRACK_ID" NUMBER, 
@@ -134,9 +191,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table MYLIBRARY_PIT
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table MYLIBRARY_PIT
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."MYLIBRARY_PIT" 
    (	"TRACK_ID" NUMBER, 
@@ -160,9 +223,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table STAGING_ARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table STAGING_ARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."STAGING_ARTISTS" 
    (	"ARTIST" VARCHAR2(200 BYTE)
@@ -171,9 +240,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table TMP_ARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table TMP_ARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."TMP_ARTISTS" 
    (	"ARTIST" VARCHAR2(100 BYTE)
@@ -182,9 +257,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table TMP_MYARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table TMP_MYARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."TMP_MYARTISTS" 
    (	"ARTIST" VARCHAR2(100 BYTE)
@@ -193,9 +274,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table TMP_MYARTISTS_1
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table TMP_MYARTISTS_1
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."TMP_MYARTISTS_1" 
    (	"ARTIST" VARCHAR2(100 BYTE)
@@ -204,9 +291,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Table TMP_MYARTISTS_2
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Table TMP_MYARTISTS_2
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE TABLE "ITUNES"."TMP_MYARTISTS_2" 
    (	"ARTIST" VARCHAR2(100 BYTE)
@@ -215,9 +308,15 @@
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1 BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
   TABLESPACE "SYSTEM" ;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_DAYS_NOT_PLAYED
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_DAYS_NOT_PLAYED
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_DAYS_NOT_PLAYED" ("ARTIST", "SONG_NAME", "PLAY_COUNT", "GENRE", "PLAY_DATE", "DAYS_NOT_PLAYED", "RANK") AS 
   SELECT "ARTIST","SONG_NAME","PLAY_COUNT","GENRE","PLAY_DATE","DAYS_NOT_PLAYED","RANK" FROM (
@@ -225,9 +324,15 @@ SELECT ARTIST,SONG_NAME,PLAY_COUNT,GENRE,PLAY_DATE,
 EXTRACT(DAY FROM (SYSDATE - PLAY_DATE)) DAYS_NOT_PLAYED,
 ROW_NUMBER() OVER(ORDER BY PLAY_DATE ASC) RANK
 FROM MYLIBRARY ) WHERE RANK <=25;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_LEAST_SKIPPED
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_LEAST_SKIPPED
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_LEAST_SKIPPED" ("ARTIST", "SONG_NAME", "PLAY_COUNT", "SKIP_COUNT", "PLAY_DATE", "GENRE", "RANK") AS 
   SELECT "ARTIST","SONG_NAME","PLAY_COUNT","SKIP_COUNT","PLAY_DATE","GENRE","RANK" FROM (
@@ -236,9 +341,15 @@ ARTIST, SONG_NAME, PLAY_COUNT, SKIP_COUNT, PLAY_DATE , GENRE
 ,ROW_NUMBER() OVER(ORDER BY (play_COUNT - SKIP_COUNT) DESC) RANK
 FROM mylibrary
 ) WHERE RANK <=25;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_MOST_RECENTLY_PLAYED
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_MOST_RECENTLY_PLAYED
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_MOST_RECENTLY_PLAYED" ("SONG_NAME", "ARTIST", "GENRE", "TOTAL_PLAY_COUNT", "RECENT_PLAY_COUNT") AS 
   SELECT SONG_NAME, artist,genre,TOTAL_PLAY_COUNT, RECENT_PLAY_COUNT FROM (
@@ -250,9 +361,15 @@ first_value(PLAY_COUNT) over (partition by SONG_NAME,album,artist order by load_
 (PLAY_COUNT - first_value(PLAY_COUNT) over (partition by SONG_NAME,album,artist order by load_date asc)) RECENT_PLAY_COUNT
 FROM mylibrary_pit ) t1 where load_order = 1 )
 WHERE rank <=25;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_MOST_SKIPPED
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_MOST_SKIPPED
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_MOST_SKIPPED" ("ARTIST", "SONG_NAME", "PLAY_COUNT", "SKIP_COUNT", "PLAY_DATE", "GENRE", "RANK") AS 
   SELECT "ARTIST","SONG_NAME","PLAY_COUNT","SKIP_COUNT","PLAY_DATE","GENRE","RANK" FROM (
@@ -261,9 +378,15 @@ ARTIST, SONG_NAME, PLAY_COUNT, SKIP_COUNT, PLAY_DATE , GENRE
 ,ROW_NUMBER() OVER(ORDER BY (SKIP_COUNT - PLAY_COUNT) DESC) RANK
 FROM mylibrary
 ) WHERE RANK <=25;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_PLAY_COUNT_DISTRIBUTION
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_PLAY_COUNT_DISTRIBUTION
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_PLAY_COUNT_DISTRIBUTION" ("GENRE", "PLAY_COUNT", "SONG_COUNT", "AVG_PLAY_PER_SONG", "TOTAL_PLAY_COUNT") AS 
   SELECT GENRE ,PLAY_COUNT, SONG_COUNT ,AVG_PLAY_PER_SONG, total_play_count FROM (
@@ -274,9 +397,15 @@ select genre, sum(play_count) as play_count, count(song_name) as song_count
 ,ROUND(AVG(PLAY_COUNT)) AS AVG_PLAY_PER_SONG
 from mylibrary
 group by genre  ) )WHERE RANK <=15;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_TIME_BUCKET
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_TIME_BUCKET
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_TIME_BUCKET" ("BUCKET_START", "BUCKET_END", "AVG_PLAYS_PER_SONG", "NO_OF_SONGS", "ERA") AS 
   SELECT 
@@ -287,9 +416,15 @@ SUBSTR( TO_CHAR(RELEASE_DATE,'YYYY-MM-DD'),1,3)||'0' AS ERA
 FROM 
 MYLIBRARY
 group by SUBSTR(TO_CHAR(RELEASE_DATE,'YYYY-MM-DD'),1,3);
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_TOP_15_ARTISTS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_TOP_15_ARTISTS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_TOP_15_ARTISTS" ("ARTIST", "TOTAL_PLAY_COUNT", "MOST_PLAYED_SONG", "SONG_PLAY_COUNT", "GENRE", "ARTITST_SONG_COUNT", "TOTAL_SONGS_LIBRARY", "SONG_PERCENTAGE") AS 
   SELECT ARTIST,TOTAL_PLAY_COUNT ,SONG_NAME AS MOST_PLAYED_SONG, SONG_PLAY_COUNT, GENRE,
@@ -304,9 +439,15 @@ COUNT(*) OVER() TOTAL_SONGS_LIBRARY,
 cast((COUNT(SONG_NAME) OVER(PARTITION BY ARTIST) / COUNT(*) OVER())*100 as decimal (3,2))  AS SONG_PERCENTAGE
 FROM mylibrary ) T WHERE  TOP_SONG_FLAG = 1
 ) WHERE ARTIST_RANK <=15;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for View VIEW_TOP_25_SONGS
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for View VIEW_TOP_25_SONGS
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE FORCE VIEW "ITUNES"."VIEW_TOP_25_SONGS" ("ARTIST", "SONG_NAME", "PLAY_COUNT", "SKIP_COUNT", "PLAY_DATE", "GENRE", "RANK") AS 
   SELECT "ARTIST","SONG_NAME","PLAY_COUNT","SKIP_COUNT","PLAY_DATE","GENRE","RANK" FROM (
@@ -315,9 +456,15 @@ ARTIST, SONG_NAME, PLAY_COUNT, SKIP_COUNT, PLAY_DATE , GENRE
 ,ROW_NUMBER() OVER(ORDER BY PLAY_COUNT DESC) RANK
 FROM mylibrary
 ) WHERE RANK <=25;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Trigger TRIG_MYALBUM
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Trigger TRIG_MYALBUM
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE TRIGGER "ITUNES"."TRIG_MYALBUM" 
 before insert on myalbum
@@ -327,9 +474,15 @@ select seq_myalbum.nextval into :new.album_id from dual;
 end;
 /
 ALTER TRIGGER "ITUNES"."TRIG_MYALBUM" ENABLE;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Trigger TRIG_MYARTIST
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Trigger TRIG_MYARTIST
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE TRIGGER "ITUNES"."TRIG_MYARTIST" 
 before insert on myartists
@@ -339,9 +492,15 @@ select seq_myartist.nextval into :new.artist_sid from dual;
 end;
 /
 ALTER TRIGGER "ITUNES"."TRIG_MYARTIST" ENABLE;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Trigger TRIG_MYGENRE
 --------------------------------------------------------
+=======
+--------------------------------------------------------
+--  DDL for Trigger TRIG_MYGENRE
+--------------------------------------------------------
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE TRIGGER "ITUNES"."TRIG_MYGENRE" 
 before insert on mygenre
@@ -351,10 +510,17 @@ select seq_mygenre.nextval into :new.genre_id from dual;
 end;
 /
 ALTER TRIGGER "ITUNES"."TRIG_MYGENRE" ENABLE;
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Procedure SP_ARTSITS_NORMALIZATION
 --------------------------------------------------------
 set define off;
+=======
+--------------------------------------------------------
+--  DDL for Procedure SP_ARTSITS_NORMALIZATION
+--------------------------------------------------------
+set define off;
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE PROCEDURE "ITUNES"."SP_ARTSITS_NORMALIZATION" 
 IS
@@ -384,10 +550,17 @@ end;
 END;
 
 /
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Procedure SP_ARTSITS_NORMALIZATION_1
 --------------------------------------------------------
 set define off;
+=======
+--------------------------------------------------------
+--  DDL for Procedure SP_ARTSITS_NORMALIZATION_1
+--------------------------------------------------------
+set define off;
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE PROCEDURE "ITUNES"."SP_ARTSITS_NORMALIZATION_1" 
 IS
@@ -417,10 +590,17 @@ end;
 END;
 
 /
+<<<<<<< HEAD
 --------------------------------------------------------
 --  DDL for Procedure SP_ARTSITS_NORMALIZATION_2
 --------------------------------------------------------
 set define off;
+=======
+--------------------------------------------------------
+--  DDL for Procedure SP_ARTSITS_NORMALIZATION_2
+--------------------------------------------------------
+set define off;
+>>>>>>> 8c8d29158b3665726c794f1ffdd6efc1db754207
 
   CREATE OR REPLACE PROCEDURE "ITUNES"."SP_ARTSITS_NORMALIZATION_2" 
 IS
