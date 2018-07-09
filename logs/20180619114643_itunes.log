@@ -1,0 +1,4 @@
+INFO ; 2018-06-19 11:46:43,403 ; Process started
+INFO ; 2018-06-19 11:46:43,575 ; hash value of input file: 756a8ceda6d989117191e4bac8c94734
+INFO ; 2018-06-19 11:46:43,575 ; Checking if file with same hash value processed previously
+WARNING ; 2018-06-19 11:46:43,575 ; file with file hash : 756a8ceda6d989117191e4bac8c94734 export date : 2018-06-19 09:43:25+00:00 already processed

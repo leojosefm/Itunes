@@ -1,0 +1,748 @@
+INFO ; 2018-05-05 17:20:13,013 ; Process started
+INFO ; 2018-05-05 17:20:13,077 ; Connected to Oracle
+INFO ; 2018-05-05 17:20:30,192 ; Process started
+INFO ; 2018-05-05 17:20:30,210 ; Connected to Oracle
+INFO ; 2018-05-05 17:21:36,555 ; Process started
+INFO ; 2018-05-05 17:21:36,578 ; Connected to Oracle
+INFO ; 2018-05-05 17:21:55,294 ; Process started
+INFO ; 2018-05-05 17:21:55,311 ; Connected to Oracle
+INFO ; 2018-05-05 17:23:08,404 ; Process started
+INFO ; 2018-05-05 17:23:08,421 ; Connected to Oracle
+INFO ; 2018-05-05 17:27:06,919 ; Process started
+INFO ; 2018-05-05 17:27:06,941 ; Connected to Oracle
+INFO ; 2018-05-05 17:36:16,385 ; Process started
+INFO ; 2018-05-05 17:36:16,405 ; Connected to Oracle
+INFO ; 2018-05-05 17:48:09,199 ; Process started
+INFO ; 2018-05-05 17:48:09,217 ; Connected to Oracle
+INFO ; 2018-05-05 17:48:57,777 ; Process started
+INFO ; 2018-05-05 17:48:57,794 ; Connected to Oracle
+INFO ; 2018-05-05 17:49:11,361 ; Process started
+INFO ; 2018-05-05 17:49:11,378 ; Connected to Oracle
+INFO ; 2018-05-05 17:50:29,760 ; Process started
+INFO ; 2018-05-05 17:50:29,779 ; Connected to Oracle
+INFO ; 2018-05-05 17:52:48,380 ; Process started
+INFO ; 2018-05-05 17:52:48,398 ; Connected to Oracle
+INFO ; 2018-05-05 17:53:23,287 ; Process started
+INFO ; 2018-05-05 17:53:23,305 ; Connected to Oracle
+INFO ; 2018-05-05 17:53:29,607 ; Process started
+INFO ; 2018-05-05 17:53:29,628 ; Connected to Oracle
+INFO ; 2018-05-05 17:53:38,896 ; Process started
+INFO ; 2018-05-05 17:53:38,915 ; Connected to Oracle
+INFO ; 2018-05-05 17:54:42,821 ; Process started
+INFO ; 2018-05-05 17:54:42,839 ; Connected to Oracle
+INFO ; 2018-05-05 18:04:42,543 ; Process started
+INFO ; 2018-05-05 18:04:42,563 ; Connected to Oracle
+INFO ; 2018-05-05 18:06:40,028 ; Process started
+INFO ; 2018-05-05 18:06:40,056 ; Connected to Oracle
+WARNING ; 2018-05-05 18:06:44,611 ; Artist : Age Of Rock not found from itunes search
+INFO ; 2018-05-05 18:07:14,537 ; Process started
+INFO ; 2018-05-05 18:07:14,556 ; Connected to Oracle
+WARNING ; 2018-05-05 18:07:18,560 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:07:33,270 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:07:39,585 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:07:41,706 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 18:07:55,144 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 18:08:26,745 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 18:08:45,141 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 18:08:46,348 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 18:09:14,617 ; Artist : C line Dion not found from itunes search
+INFO ; 2018-05-05 18:14:32,392 ; Process started
+INFO ; 2018-05-05 18:14:32,411 ; Connected to Oracle
+WARNING ; 2018-05-05 18:14:36,617 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:14:37,515 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:14:38,354 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:14:39,506 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 18:14:40,345 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 18:14:41,719 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 18:14:43,028 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 18:14:44,639 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 18:14:47,597 ; Artist : C line Dion not found from itunes search
+WARNING ; 2018-05-05 18:15:30,648 ; Artist : Deepak Dev not found from itunes search
+INFO ; 2018-05-05 18:16:40,798 ; Process started
+INFO ; 2018-05-05 18:16:40,818 ; Connected to Oracle
+WARNING ; 2018-05-05 18:16:44,781 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:16:46,301 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:16:47,688 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:16:48,984 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 18:16:50,169 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 18:16:51,712 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 18:16:53,435 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 18:16:55,186 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 18:16:57,990 ; Artist : C line Dion not found from itunes search
+WARNING ; 2018-05-05 18:16:59,563 ; Artist : Deepak Dev not found from itunes search
+WARNING ; 2018-05-05 18:37:21,222 ; Artist : Eels not found from itunes search
+WARNING ; 2018-05-05 18:37:43,415 ; Artist : Eels not found from itunes search
+INFO ; 2018-05-05 18:38:13,702 ; Process started
+INFO ; 2018-05-05 18:38:13,723 ; Connected to Oracle
+WARNING ; 2018-05-05 18:38:16,527 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:38:17,525 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:38:18,530 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:38:19,500 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 18:38:20,480 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 18:38:21,628 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 18:38:22,946 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 18:38:24,306 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 18:38:27,020 ; Artist : C line Dion not found from itunes search
+WARNING ; 2018-05-05 18:38:28,058 ; Artist : Deepak Dev not found from itunes search
+INFO ; 2018-05-05 18:39:28,180 ; Process started
+INFO ; 2018-05-05 18:39:28,199 ; Connected to Oracle
+WARNING ; 2018-05-05 18:39:30,347 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:39:31,919 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:39:33,489 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:39:34,824 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 18:39:36,146 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 18:39:37,219 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 18:39:38,214 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 18:39:39,236 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 18:39:41,337 ; Artist : C line Dion not found from itunes search
+WARNING ; 2018-05-05 18:39:42,695 ; Artist : Deepak Dev not found from itunes search
+INFO ; 2018-05-05 18:58:23,114 ; Process started
+INFO ; 2018-05-05 18:58:23,134 ; Connected to Oracle
+WARNING ; 2018-05-05 18:58:52,238 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 18:59:10,897 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 18:59:17,812 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 18:59:18,821 ; Artist : Anirudh Ravichander not found from itunes search
+INFO ; 2018-05-05 19:27:11,275 ; Process started
+INFO ; 2018-05-05 19:27:11,303 ; Connected to Oracle
+INFO ; 2018-05-05 19:38:29,394 ; Process started
+INFO ; 2018-05-05 19:38:29,413 ; Connected to Oracle
+INFO ; 2018-05-05 19:41:38,298 ; Process started
+INFO ; 2018-05-05 19:41:38,317 ; Connected to Oracle
+WARNING ; 2018-05-05 19:41:39,239 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 19:41:40,894 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 19:41:41,369 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 19:41:41,762 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 19:41:44,566 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 19:41:58,884 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 19:42:09,089 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 19:42:09,410 ; Artist : Bob Marley not found from itunes search
+INFO ; 2018-05-05 19:43:22,013 ; Process started
+INFO ; 2018-05-05 19:43:22,031 ; Connected to Oracle
+WARNING ; 2018-05-05 19:43:22,207 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 19:43:22,315 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 19:43:22,520 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 19:43:22,617 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 19:43:22,725 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 19:43:22,940 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 19:43:23,005 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 19:43:23,203 ; Artist : Bob Marley not found from itunes search
+INFO ; 2018-05-05 19:44:48,802 ; Process started
+INFO ; 2018-05-05 19:44:48,829 ; Connected to Oracle
+WARNING ; 2018-05-05 19:44:51,441 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 19:44:52,316 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 19:44:54,285 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 19:44:55,435 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 19:44:56,917 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 19:44:57,974 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 19:44:58,890 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 19:44:59,766 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 19:45:20,027 ; Artist : C line Dion not found from itunes search
+INFO ; 2018-05-05 19:57:23,492 ; Process started
+INFO ; 2018-05-05 19:57:23,510 ; Connected to Oracle
+WARNING ; 2018-05-05 19:57:25,513 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 19:57:26,313 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 19:57:27,116 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 19:57:27,906 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 19:57:28,992 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 19:57:29,695 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 19:57:30,370 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 19:57:31,167 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 19:57:33,088 ; Artist : Celine Dion not found from itunes search
+WARNING ; 2018-05-05 19:57:34,039 ; Artist : Deepak Dev not found from itunes search
+WARNING ; 2018-05-05 19:57:35,001 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 19:57:35,823 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 19:57:36,958 ; Artist : Haricharan not found from itunes search
+WARNING ; 2018-05-05 19:57:37,945 ; Artist : Jimmy Hart not found from itunes search
+WARNING ; 2018-05-05 19:57:38,735 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 19:57:39,462 ; Artist : K. S. Chithra not found from itunes search
+WARNING ; 2018-05-05 19:57:40,138 ; Artist : Kamal Haasan not found from itunes search
+INFO ; 2018-05-05 20:04:08,806 ; Process started
+INFO ; 2018-05-05 20:04:08,824 ; Connected to Oracle
+WARNING ; 2018-05-05 20:04:10,384 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 20:04:11,073 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 20:04:11,816 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 20:04:12,513 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 20:04:13,504 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:04:14,762 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 20:04:15,612 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 20:04:16,998 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 20:04:18,998 ; Artist : Celine Dion not found from itunes search
+WARNING ; 2018-05-05 20:04:19,682 ; Artist : Deepak Dev not found from itunes search
+WARNING ; 2018-05-05 20:04:20,444 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 20:04:21,114 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 20:04:21,846 ; Artist : Haricharan not found from itunes search
+WARNING ; 2018-05-05 20:04:22,561 ; Artist : Jimmy Hart not found from itunes search
+WARNING ; 2018-05-05 20:04:23,417 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 20:04:25,035 ; Artist : K. S. Chithra not found from itunes search
+WARNING ; 2018-05-05 20:04:25,880 ; Artist : Kamal Haasan not found from itunes search
+WARNING ; 2018-05-05 20:05:22,100 ; Artist : Lathika not found from itunes search
+WARNING ; 2018-05-05 20:05:26,085 ; Artist : Laxmikant not found from itunes search
+WARNING ; 2018-05-05 20:05:44,646 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:06:01,292 ; Artist : M. G. Sreekumar not found from itunes search
+WARNING ; 2018-05-05 20:06:05,577 ; Artist : Madhuvanthi Narayan not found from itunes search
+INFO ; 2018-05-05 20:25:32,091 ; Process started
+INFO ; 2018-05-05 20:25:32,112 ; Connected to Oracle
+INFO ; 2018-05-05 20:30:17,146 ; Process started
+INFO ; 2018-05-05 20:30:17,166 ; Connected to Oracle
+WARNING ; 2018-05-05 20:30:17,608 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:30:17,707 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 20:30:17,924 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 20:30:18,184 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 20:30:18,476 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 20:30:18,956 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 20:30:19,251 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:30:19,344 ; Artist : Madhuvanthi Narayan not found from itunes search
+INFO ; 2018-05-05 20:30:19,616 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+INFO ; 2018-05-05 20:33:44,062 ; Process started
+INFO ; 2018-05-05 20:33:44,082 ; Connected to Oracle
+WARNING ; 2018-05-05 20:33:44,498 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:33:44,588 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 20:33:44,833 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 20:33:44,914 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 20:33:45,131 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 20:33:45,384 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 20:33:45,502 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:33:45,619 ; Artist : Madhuvanthi Narayan not found from itunes search
+INFO ; 2018-05-05 20:33:45,856 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+WARNING ; 2018-05-05 20:33:46,068 ; No results for artist : Peter Amstrong
+INFO ; 2018-05-05 20:33:46,641 ; Calling artist lookup webservice for artist_id: 106848 Atrist :Peter Frampton
+INFO ; 2018-05-05 20:33:47,199 ; Calling album lookup webservice for artist_id: 106848 Atrist :Peter Frampton
+WARNING ; 2018-05-05 20:33:47,784 ; No results for artist : Peter Knight
+INFO ; 2018-05-05 20:33:48,528 ; Calling artist lookup webservice for artist_id: 14934728 Atrist :Pharrell Williams
+INFO ; 2018-05-05 20:33:48,785 ; Calling album lookup webservice for artist_id: 14934728 Atrist :Pharrell Williams
+WARNING ; 2018-05-05 20:33:49,325 ; No results for artist : Phil Collins
+INFO ; 2018-05-05 20:33:50,152 ; Calling artist lookup webservice for artist_id: 487143 Atrist :Pink Floyd
+INFO ; 2018-05-05 20:33:50,477 ; Calling album lookup webservice for artist_id: 487143 Atrist :Pink Floyd
+INFO ; 2018-05-05 20:33:51,290 ; Calling artist lookup webservice for artist_id: 27044968 Atrist :Pitbull
+INFO ; 2018-05-05 20:33:51,601 ; Calling album lookup webservice for artist_id: 27044968 Atrist :Pitbull
+INFO ; 2018-05-05 20:33:53,068 ; Calling artist lookup webservice for artist_id: 304808946 Atrist :Prabhakaran
+INFO ; 2018-05-05 20:33:53,323 ; Calling album lookup webservice for artist_id: 304808946 Atrist :Prabhakaran
+INFO ; 2018-05-05 20:33:54,356 ; Calling artist lookup webservice for artist_id: 317847468 Atrist :Princess Chelsea
+INFO ; 2018-05-05 20:33:54,802 ; Calling album lookup webservice for artist_id: 317847468 Atrist :Princess Chelsea
+WARNING ; 2018-05-05 20:33:55,585 ; No results for artist : Puddle of Mudd
+WARNING ; 2018-05-05 20:33:55,902 ; No results for artist : Pulp
+INFO ; 2018-05-05 20:33:56,449 ; Calling artist lookup webservice for artist_id: 3296287 Atrist :Queen
+INFO ; 2018-05-05 20:33:56,772 ; Calling album lookup webservice for artist_id: 3296287 Atrist :Queen
+INFO ; 2018-05-05 20:33:57,926 ; Calling artist lookup webservice for artist_id: 269180970 Atrist :R. City
+INFO ; 2018-05-05 20:33:58,453 ; Calling album lookup webservice for artist_id: 269180970 Atrist :R. City
+WARNING ; 2018-05-05 20:33:59,247 ; No results for artist : R. Kelly
+WARNING ; 2018-05-05 20:33:59,549 ; No results for artist : R.E.M.
+WARNING ; 2018-05-05 20:33:59,921 ; No results for artist : REO Speedwagon
+WARNING ; 2018-05-05 20:34:00,222 ; No results for artist : Rainbow
+WARNING ; 2018-05-05 20:34:00,571 ; No results for artist : Rammstein
+WARNING ; 2018-05-05 20:34:00,934 ; No results for artist : Ramya Nambeesan
+WARNING ; 2018-05-05 20:34:01,239 ; No results for artist : Ray Parker Jr.
+WARNING ; 2018-05-05 20:34:01,664 ; No results for artist : Rebecca
+WARNING ; 2018-05-05 20:34:01,991 ; No results for artist : Red Hot Chili Peppers
+INFO ; 2018-05-05 20:34:02,708 ; Calling artist lookup webservice for artist_id: 16542 Atrist :Richard Marx
+INFO ; 2018-05-05 20:34:02,940 ; Calling album lookup webservice for artist_id: 16542 Atrist :Richard Marx
+INFO ; 2018-05-05 20:34:03,960 ; Calling artist lookup webservice for artist_id: 669771 Atrist :Rick Astley
+INFO ; 2018-05-05 20:34:04,314 ; Calling album lookup webservice for artist_id: 669771 Atrist :Rick Astley
+WARNING ; 2018-05-05 20:34:04,935 ; No results for artist : Rick Derringer
+WARNING ; 2018-05-05 20:34:05,429 ; No results for artist : Ricky Martin
+INFO ; 2018-05-05 20:34:06,741 ; Calling artist lookup webservice for artist_id: 380997590 Atrist :Rimi Tomy
+INFO ; 2018-05-05 20:34:07,047 ; Calling album lookup webservice for artist_id: 380997590 Atrist :Rimi Tomy
+WARNING ; 2018-05-05 20:34:07,359 ; Key error artist 380997590 Atrist :Rimi Tomy
+INFO ; 2018-05-05 20:34:07,862 ; Calling artist lookup webservice for artist_id: 968545711 Atrist :Rinu Razak Hisham
+INFO ; 2018-05-05 20:34:08,222 ; Calling album lookup webservice for artist_id: 968545711 Atrist :Rinu Razak Hisham
+WARNING ; 2018-05-05 20:34:08,670 ; Key error artist 968545711 Atrist :Rinu Razak Hisham
+WARNING ; 2018-05-05 20:34:08,985 ; No results for artist : Rita Coolidge
+WARNING ; 2018-05-05 20:34:09,436 ; No results for artist : Rita Ora
+INFO ; 2018-05-05 20:34:10,300 ; Calling artist lookup webservice for artist_id: 17973 Atrist :Robbie Williams
+INFO ; 2018-05-05 20:34:10,766 ; Calling album lookup webservice for artist_id: 17973 Atrist :Robbie Williams
+WARNING ; 2018-05-05 20:34:11,194 ; No results for artist : Robin Thicke
+INFO ; 2018-05-05 20:34:11,750 ; Calling artist lookup webservice for artist_id: 57471 Atrist :Rod Stewart
+INFO ; 2018-05-05 20:34:12,163 ; Calling album lookup webservice for artist_id: 57471 Atrist :Rod Stewart
+WARNING ; 2018-05-05 20:34:12,925 ; No results for artist : Rodriguez
+INFO ; 2018-05-05 20:34:14,524 ; Calling artist lookup webservice for artist_id: 2397346 Atrist :Roxette
+INFO ; 2018-05-05 20:34:14,777 ; Calling album lookup webservice for artist_id: 2397346 Atrist :Roxette
+INFO ; 2018-05-05 20:34:16,481 ; Calling artist lookup webservice for artist_id: 50526 Atrist :Rush
+INFO ; 2018-05-05 20:34:16,905 ; Calling album lookup webservice for artist_id: 50526 Atrist :Rush
+WARNING ; 2018-05-05 20:34:17,471 ; No results for artist : Ryan Adams
+INFO ; 2018-05-05 20:34:18,607 ; Calling artist lookup webservice for artist_id: 139206037 Atrist :SCORE
+INFO ; 2018-05-05 20:34:18,885 ; Calling album lookup webservice for artist_id: 139206037 Atrist :SCORE
+INFO ; 2018-05-05 20:34:19,905 ; Calling artist lookup webservice for artist_id: 216066398 Atrist :SHIPS
+INFO ; 2018-05-05 20:34:20,167 ; Calling album lookup webservice for artist_id: 216066398 Atrist :SHIPS
+WARNING ; 2018-05-05 20:34:20,399 ; Key error artist 216066398 Atrist :SHIPS
+INFO ; 2018-05-05 20:34:21,084 ; Calling artist lookup webservice for artist_id: 475591 Atrist :Sade
+INFO ; 2018-05-05 20:34:21,512 ; Calling album lookup webservice for artist_id: 475591 Atrist :Sade
+INFO ; 2018-05-05 20:34:23,028 ; Calling artist lookup webservice for artist_id: 464379161 Atrist :Sam Brown
+INFO ; 2018-05-05 20:34:23,433 ; Calling album lookup webservice for artist_id: 464379161 Atrist :Sam Brown
+WARNING ; 2018-05-05 20:34:24,171 ; No results for artist : Santana
+WARNING ; 2018-05-05 20:34:24,598 ; No results for artist : Sarah McLachlan
+WARNING ; 2018-05-05 20:34:24,880 ; No results for artist : Sathya Prakash
+WARNING ; 2018-05-05 20:34:25,159 ; No results for artist : Savage Garden
+WARNING ; 2018-05-05 20:34:25,542 ; No results for artist : Scorpions
+WARNING ; 2018-05-05 20:34:25,972 ; No results for artist : Seal
+WARNING ; 2018-05-05 20:34:26,239 ; No results for artist : Sean Paul
+WARNING ; 2018-05-05 20:34:26,502 ; No results for artist : Shaan Rahman
+WARNING ; 2018-05-05 20:34:26,769 ; No results for artist : Shabareesh Varma
+WARNING ; 2018-05-05 20:34:27,068 ; No results for artist : Shaggy
+WARNING ; 2018-05-05 20:34:27,314 ; No results for artist : Shakira
+WARNING ; 2018-05-05 20:34:27,866 ; No results for artist : Shania Twain
+WARNING ; 2018-05-05 20:34:28,150 ; No results for artist : Shawn Mendes
+WARNING ; 2018-05-05 20:34:28,733 ; No results for artist : Sheryl Crow
+WARNING ; 2018-05-05 20:34:29,050 ; No results for artist : Shirley
+WARNING ; 2018-05-05 20:34:29,360 ; No results for artist : Shreekumar Vakkiyil
+WARNING ; 2018-05-05 20:34:29,820 ; No results for artist : Shreya Ghoshal
+WARNING ; 2018-05-05 20:34:30,060 ; No results for artist : Sia
+WARNING ; 2018-05-05 20:34:30,297 ; No results for artist : Siddharth Menon
+WARNING ; 2018-05-05 20:34:30,539 ; No results for artist : Simon
+WARNING ; 2018-05-05 20:34:30,778 ; No results for artist : Sin ad O'Connor
+WARNING ; 2018-05-05 20:34:31,093 ; No results for artist : Sithara Krishnakumar
+WARNING ; 2018-05-05 20:34:31,453 ; No results for artist : Sixpence None the Richer
+WARNING ; 2018-05-05 20:34:31,878 ; No results for artist : Sly Fox
+WARNING ; 2018-05-05 20:34:32,149 ; No results for artist : Sons of Maria
+WARNING ; 2018-05-05 20:34:32,411 ; No results for artist : Soundgarden
+WARNING ; 2018-05-05 20:34:32,674 ; No results for artist : Spice Girls
+WARNING ; 2018-05-05 20:34:32,948 ; No results for artist : Squeeze
+WARNING ; 2018-05-05 20:34:33,352 ; No results for artist : Starship
+WARNING ; 2018-05-05 20:34:33,920 ; No results for artist : Status Quo
+WARNING ; 2018-05-05 20:34:34,327 ; No results for artist : Steve Winwood
+WARNING ; 2018-05-05 20:34:34,636 ; No results for artist : Stevie Wonder
+WARNING ; 2018-05-05 20:34:34,939 ; No results for artist : Sting
+WARNING ; 2018-05-05 20:34:35,184 ; No results for artist : Strange Talk
+WARNING ; 2018-05-05 20:34:35,460 ; No results for artist : Styx
+WARNING ; 2018-05-05 20:34:35,916 ; No results for artist : Sugar Animal
+WARNING ; 2018-05-05 20:34:36,471 ; No results for artist : Sum 41
+WARNING ; 2018-05-05 20:34:36,765 ; No results for artist : Supertramp
+WARNING ; 2018-05-05 20:34:37,069 ; No results for artist : Survivor
+WARNING ; 2018-05-05 20:34:37,540 ; No results for artist : Suzanne Vega
+WARNING ; 2018-05-05 20:34:38,055 ; No results for artist : Take That
+WARNING ; 2018-05-05 20:34:38,395 ; No results for artist : Taylor Swift
+WARNING ; 2018-05-05 20:34:38,746 ; No results for artist : Tears for Fears
+WARNING ; 2018-05-05 20:34:39,173 ; No results for artist : Tesla
+WARNING ; 2018-05-05 20:34:39,515 ; No results for artist : Thakara
+WARNING ; 2018-05-05 20:34:39,820 ; No results for artist : The Allman Brothers Band
+WARNING ; 2018-05-05 20:34:40,123 ; No results for artist : The Bangles
+WARNING ; 2018-05-05 20:34:40,422 ; No results for artist : The Beatles
+WARNING ; 2018-05-05 20:34:40,842 ; No results for artist : The Black Eyed Peas
+WARNING ; 2018-05-05 20:34:41,171 ; No results for artist : The Brothers Johnson
+WARNING ; 2018-05-05 20:34:41,497 ; No results for artist : The Buggles
+WARNING ; 2018-05-05 20:34:41,811 ; No results for artist : The Cardigans
+WARNING ; 2018-05-05 20:34:42,141 ; No results for artist : The Cars
+WARNING ; 2018-05-05 20:34:42,456 ; No results for artist : The Cataracs
+WARNING ; 2018-05-05 20:34:42,799 ; No results for artist : The Chainsmokers
+WARNING ; 2018-05-05 20:34:43,069 ; No results for artist : The Corrs
+WARNING ; 2018-05-05 20:34:43,383 ; No results for artist : The Cranberries
+WARNING ; 2018-05-05 20:34:43,682 ; No results for artist : The Damned
+WARNING ; 2018-05-05 20:34:44,191 ; No results for artist : The Doors
+WARNING ; 2018-05-05 20:34:44,593 ; No results for artist : The Flying Burrito Brothers
+WARNING ; 2018-05-05 20:34:44,869 ; No results for artist : The Goo Goo Dolls
+WARNING ; 2018-05-05 20:34:45,182 ; No results for artist : The Hooters
+WARNING ; 2018-05-05 20:34:45,940 ; No results for artist : The Human League
+WARNING ; 2018-05-05 20:34:46,196 ; No results for artist : The Jam
+WARNING ; 2018-05-05 20:34:46,513 ; No results for artist : The Jets
+WARNING ; 2018-05-05 20:34:46,837 ; No results for artist : The Killers
+WARNING ; 2018-05-05 20:34:47,261 ; No results for artist : The Police
+WARNING ; 2018-05-05 20:34:47,566 ; No results for artist : The Presets
+WARNING ; 2018-05-05 20:34:47,897 ; No results for artist : The Proclaimers
+WARNING ; 2018-05-05 20:34:48,880 ; No results for artist : The Rolling Stones
+WARNING ; 2018-05-05 20:34:49,400 ; No results for artist : The Scorps
+WARNING ; 2018-05-05 20:34:49,722 ; No results for artist : The Spencer Davis Group
+WARNING ; 2018-05-05 20:34:50,032 ; No results for artist : The Stranglers
+WARNING ; 2018-05-05 20:34:50,593 ; No results for artist : The Weeknd
+WARNING ; 2018-05-05 20:34:51,076 ; No results for artist : Thin Lizzy
+WARNING ; 2018-05-05 20:34:51,380 ; No results for artist : Three Dog Night
+WARNING ; 2018-05-05 20:34:51,702 ; No results for artist : Ti sto
+WARNING ; 2018-05-05 20:34:51,942 ; No results for artist : Tim McGraw
+WARNING ; 2018-05-05 20:34:52,251 ; No results for artist : Tin Tin Out Featuring Emma Bunton
+WARNING ; 2018-05-05 20:34:52,570 ; No results for artist : Tom Petty
+WARNING ; 2018-05-05 20:34:52,955 ; No results for artist : Tom Tom Club
+WARNING ; 2018-05-05 20:34:53,343 ; No results for artist : Toto
+WARNING ; 2018-05-05 20:34:53,587 ; No results for artist : Tove Lo
+WARNING ; 2018-05-05 20:34:53,891 ; No results for artist : Traffic
+WARNING ; 2018-05-05 20:34:54,352 ; No results for artist : Transvision Vamp
+WARNING ; 2018-05-05 20:34:54,903 ; No results for artist : Tritonal
+WARNING ; 2018-05-05 20:34:55,260 ; No results for artist : U2
+WARNING ; 2018-05-05 20:34:55,751 ; No results for artist : Ugly Kid Joe
+WARNING ; 2018-05-05 20:34:56,081 ; No results for artist : Unni Menon
+WARNING ; 2018-05-05 20:34:56,516 ; No results for artist : Uriah Heep
+WARNING ; 2018-05-05 20:34:56,832 ; No results for artist : Van Halen
+WARNING ; 2018-05-05 20:34:57,128 ; No results for artist : Vijay Yesudas
+WARNING ; 2018-05-05 20:34:57,361 ; No results for artist : Village People
+WARNING ; 2018-05-05 20:34:57,676 ; No results for artist : Vineeth Sreenivasan
+WARNING ; 2018-05-05 20:34:58,143 ; No results for artist : Vinod Varma
+WARNING ; 2018-05-05 20:34:58,680 ; No results for artist : Wet Hot American Summer Cast
+WARNING ; 2018-05-05 20:34:58,997 ; No results for artist : Wham!
+WARNING ; 2018-05-05 20:34:59,233 ; No results for artist : Whitesnake
+WARNING ; 2018-05-05 20:34:59,531 ; No results for artist : Whitney Houston
+WARNING ; 2018-05-05 20:34:59,794 ; No results for artist : Yall
+WARNING ; 2018-05-05 20:35:00,128 ; No results for artist : Yazin Nizar
+WARNING ; 2018-05-05 20:35:00,542 ; No results for artist : Yelawolf
+WARNING ; 2018-05-05 20:35:00,943 ; No results for artist : Yes
+WARNING ; 2018-05-05 20:35:01,251 ; No results for artist : ZZ Ward
+WARNING ; 2018-05-05 20:35:01,740 ; No results for artist : Zia Ul Haq
+WARNING ; 2018-05-05 20:35:02,062 ; No results for artist : a-ha
+WARNING ; 2018-05-05 20:35:02,380 ; No results for artist : blink-182
+WARNING ; 2018-05-05 20:35:02,701 ; No results for artist : deadmau5 vs. Eric Prydz
+WARNING ; 2018-05-05 20:35:03,116 ; No results for artist : Foo Fighters
+WARNING ; 2018-05-05 20:35:03,414 ; No results for artist : Fool's Garden
+WARNING ; 2018-05-05 20:35:03,844 ; No results for artist : George Harrison
+WARNING ; 2018-05-05 20:35:04,144 ; No results for artist : George Michael
+WARNING ; 2018-05-05 20:35:04,651 ; No results for artist : *NSYNC
+WARNING ; 2018-05-05 20:35:04,954 ; No results for artist : 10cc
+WARNING ; 2018-05-05 20:35:05,453 ; No results for artist : 4 Non Blondes
+WARNING ; 2018-05-05 20:35:05,770 ; No results for artist : ABBA
+WARNING ; 2018-05-05 20:35:06,081 ; No results for artist : AWOLNATION
+WARNING ; 2018-05-05 20:35:06,485 ; No results for artist : Abeer Nehme
+WARNING ; 2018-05-05 20:35:06,816 ; No results for artist : Adele
+WARNING ; 2018-05-05 20:35:07,126 ; No results for artist : Aerosmith
+WARNING ; 2018-05-05 20:35:07,591 ; No results for artist : Air Supply
+WARNING ; 2018-05-05 20:35:07,927 ; No results for artist : Akcent
+WARNING ; 2018-05-05 20:35:08,238 ; No results for artist : Akon
+WARNING ; 2018-05-05 20:35:08,714 ; No results for artist : Alan Walker
+WARNING ; 2018-05-05 20:35:09,062 ; No results for artist : Alannah Myles
+WARNING ; 2018-05-05 20:35:09,495 ; No results for artist : Alphaville
+WARNING ; 2018-05-05 20:35:09,884 ; No results for artist : Alter Bridge
+WARNING ; 2018-05-05 20:35:10,296 ; No results for artist : Antony Daasan
+WARNING ; 2018-05-05 20:35:10,789 ; No results for artist : Anwar Sadath
+WARNING ; 2018-05-05 20:35:11,107 ; No results for artist : Ariana Grande
+WARNING ; 2018-05-05 20:35:11,450 ; No results for artist : Celine Dion
+WARNING ; 2018-05-05 20:35:11,685 ; No results for artist : Deepak Dev
+WARNING ; 2018-05-05 20:35:11,942 ; No results for artist : K. S. Chithra
+WARNING ; 2018-05-05 20:35:12,272 ; No results for artist : Kamal Haasan
+WARNING ; 2018-05-05 20:35:12,866 ; No results for artist : Mathangi
+WARNING ; 2018-05-05 20:35:13,399 ; No results for artist : Naresh Iyer
+INFO ; 2018-05-05 20:49:13,518 ; Process started
+INFO ; 2018-05-05 20:49:13,537 ; Connected to Oracle
+WARNING ; 2018-05-05 20:49:13,686 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:49:14,329 ; Artist : Beyonce not found from itunes search
+WARNING ; 2018-05-05 20:49:14,409 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 20:49:14,888 ; Artist : Godley not found from itunes search
+INFO ; 2018-05-05 20:49:15,566 ; Calling artist lookup webservice for artist_id: 106621 Atrist :Guns N' Roses
+INFO ; 2018-05-05 20:49:15,862 ; Calling album lookup webservice for artist_id: 106621 Atrist :Guns N' Roses
+WARNING ; 2018-05-05 20:49:16,312 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 20:49:16,382 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:49:16,571 ; Artist : Madhuvanthi Narayan not found from itunes search
+INFO ; 2018-05-05 20:52:49,356 ; Process started
+INFO ; 2018-05-05 20:52:49,375 ; Connected to Oracle
+INFO ; 2018-05-05 20:52:50,577 ; Calling artist lookup webservice for artist_id: 480976476 Atrist :Anirudh Ravichander
+INFO ; 2018-05-05 20:52:50,808 ; Calling album lookup webservice for artist_id: 480976476 Atrist :Anirudh Ravichander
+INFO ; 2018-05-05 20:52:52,310 ; Calling artist lookup webservice for artist_id: 31271222 Atrist :P.P. Arnold
+INFO ; 2018-05-05 20:52:52,696 ; Calling album lookup webservice for artist_id: 31271222 Atrist :P.P. Arnold
+INFO ; 2018-05-05 20:52:53,803 ; Calling artist lookup webservice for artist_id: 247285 Atrist :Paul Weller
+INFO ; 2018-05-05 20:52:54,119 ; Calling album lookup webservice for artist_id: 247285 Atrist :Paul Weller
+INFO ; 2018-05-05 20:52:54,999 ; Calling artist lookup webservice for artist_id: 488020 Atrist :Pet Shop Boys
+INFO ; 2018-05-05 20:52:55,276 ; Calling album lookup webservice for artist_id: 488020 Atrist :Pet Shop Boys
+INFO ; 2018-05-05 20:52:55,957 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+WARNING ; 2018-05-05 20:52:56,064 ; No results for artist : Peter Amstrong
+INFO ; 2018-05-05 20:52:57,289 ; Calling artist lookup webservice for artist_id: 5795292 Atrist :Peter Knight
+INFO ; 2018-05-05 20:52:57,550 ; Calling album lookup webservice for artist_id: 5795292 Atrist :Peter Knight
+INFO ; 2018-05-05 20:52:58,404 ; Calling artist lookup webservice for artist_id: 153718 Atrist :Phil Collins
+INFO ; 2018-05-05 20:52:58,696 ; Calling album lookup webservice for artist_id: 153718 Atrist :Phil Collins
+INFO ; 2018-05-05 20:52:59,773 ; Calling artist lookup webservice for artist_id: 109754 Atrist :Puddle of Mudd
+INFO ; 2018-05-05 20:53:00,014 ; Calling album lookup webservice for artist_id: 109754 Atrist :Puddle of Mudd
+INFO ; 2018-05-05 20:53:01,020 ; Calling artist lookup webservice for artist_id: 312518 Atrist :Pulp
+INFO ; 2018-05-05 20:53:01,317 ; Calling album lookup webservice for artist_id: 312518 Atrist :Pulp
+INFO ; 2018-05-05 20:53:02,294 ; Calling artist lookup webservice for artist_id: 140083 Atrist :R. Kelly
+INFO ; 2018-05-05 20:53:02,719 ; Calling album lookup webservice for artist_id: 140083 Atrist :R. Kelly
+INFO ; 2018-05-05 20:53:03,595 ; Calling artist lookup webservice for artist_id: 311145 Atrist :R.E.M.
+INFO ; 2018-05-05 20:53:03,844 ; Calling album lookup webservice for artist_id: 311145 Atrist :R.E.M.
+INFO ; 2018-05-05 20:53:04,537 ; Calling artist lookup webservice for artist_id: 575609 Atrist :REO Speedwagon
+INFO ; 2018-05-05 20:53:05,144 ; Calling album lookup webservice for artist_id: 575609 Atrist :REO Speedwagon
+INFO ; 2018-05-05 20:53:06,475 ; Calling artist lookup webservice for artist_id: 51688 Atrist :Rainbow
+INFO ; 2018-05-05 20:53:06,789 ; Calling album lookup webservice for artist_id: 51688 Atrist :Rainbow
+INFO ; 2018-05-05 20:53:08,117 ; Calling artist lookup webservice for artist_id: 408932 Atrist :Rammstein
+INFO ; 2018-05-05 20:53:08,416 ; Calling album lookup webservice for artist_id: 408932 Atrist :Rammstein
+INFO ; 2018-05-05 20:53:09,804 ; Calling artist lookup webservice for artist_id: 425696920 Atrist :Ramya Nambeesan
+INFO ; 2018-05-05 20:53:10,248 ; Calling album lookup webservice for artist_id: 425696920 Atrist :Ramya Nambeesan
+INFO ; 2018-05-05 20:53:11,235 ; Calling artist lookup webservice for artist_id: 3867130 Atrist :Ray Parker Jr.
+INFO ; 2018-05-05 20:53:11,592 ; Calling album lookup webservice for artist_id: 3867130 Atrist :Ray Parker Jr.
+INFO ; 2018-05-05 20:53:13,134 ; Calling artist lookup webservice for artist_id: 1177715574 Atrist :Rebecca
+INFO ; 2018-05-05 20:53:13,546 ; Calling album lookup webservice for artist_id: 1177715574 Atrist :Rebecca
+INFO ; 2018-05-05 20:53:14,758 ; Calling artist lookup webservice for artist_id: 889780 Atrist :Red Hot Chili Peppers
+INFO ; 2018-05-05 20:53:15,014 ; Calling album lookup webservice for artist_id: 889780 Atrist :Red Hot Chili Peppers
+INFO ; 2018-05-05 20:53:16,063 ; Calling artist lookup webservice for artist_id: 479809 Atrist :Rick Derringer
+INFO ; 2018-05-05 20:53:16,387 ; Calling album lookup webservice for artist_id: 479809 Atrist :Rick Derringer
+INFO ; 2018-05-05 20:53:17,201 ; Calling artist lookup webservice for artist_id: 217142 Atrist :Ricky Martin
+INFO ; 2018-05-05 20:53:17,651 ; Calling album lookup webservice for artist_id: 217142 Atrist :Ricky Martin
+INFO ; 2018-05-05 20:53:18,748 ; Calling artist lookup webservice for artist_id: 251061 Atrist :Rita Coolidge
+INFO ; 2018-05-05 20:53:19,052 ; Calling album lookup webservice for artist_id: 251061 Atrist :Rita Coolidge
+INFO ; 2018-05-05 20:53:20,262 ; Calling artist lookup webservice for artist_id: 355898104 Atrist :Rita Ora
+INFO ; 2018-05-05 20:53:20,575 ; Calling album lookup webservice for artist_id: 355898104 Atrist :Rita Ora
+INFO ; 2018-05-05 20:53:21,643 ; Calling artist lookup webservice for artist_id: 290491 Atrist :Robin Thicke
+INFO ; 2018-05-05 20:53:21,997 ; Calling album lookup webservice for artist_id: 290491 Atrist :Robin Thicke
+INFO ; 2018-05-05 20:53:23,231 ; Calling artist lookup webservice for artist_id: 569028356 Atrist :Rodriguez
+INFO ; 2018-05-05 20:53:23,669 ; Calling album lookup webservice for artist_id: 569028356 Atrist :Rodriguez
+INFO ; 2018-05-05 20:53:24,756 ; Calling artist lookup webservice for artist_id: 1010602 Atrist :Ryan Adams
+INFO ; 2018-05-05 20:53:25,056 ; Calling album lookup webservice for artist_id: 1010602 Atrist :Ryan Adams
+INFO ; 2018-05-05 20:53:26,159 ; Calling artist lookup webservice for artist_id: 217174 Atrist :Santana
+INFO ; 2018-05-05 20:53:26,716 ; Calling album lookup webservice for artist_id: 217174 Atrist :Santana
+INFO ; 2018-05-05 20:53:27,522 ; Calling artist lookup webservice for artist_id: 111192 Atrist :Sarah McLachlan
+INFO ; 2018-05-05 20:53:27,772 ; Calling album lookup webservice for artist_id: 111192 Atrist :Sarah McLachlan
+INFO ; 2018-05-05 20:53:28,873 ; Calling artist lookup webservice for artist_id: 490980996 Atrist :Sathya Prakash
+INFO ; 2018-05-05 20:53:29,405 ; Calling album lookup webservice for artist_id: 490980996 Atrist :Sathya Prakash
+INFO ; 2018-05-05 20:53:30,646 ; Calling artist lookup webservice for artist_id: 463177 Atrist :Savage Garden
+INFO ; 2018-05-05 20:53:30,883 ; Calling album lookup webservice for artist_id: 463177 Atrist :Savage Garden
+INFO ; 2018-05-05 20:53:31,967 ; Calling artist lookup webservice for artist_id: 602212 Atrist :Scorpions
+INFO ; 2018-05-05 20:53:32,365 ; Calling album lookup webservice for artist_id: 602212 Atrist :Scorpions
+INFO ; 2018-05-05 20:53:33,328 ; Calling artist lookup webservice for artist_id: 156209 Atrist :Seal
+INFO ; 2018-05-05 20:53:33,570 ; Calling album lookup webservice for artist_id: 156209 Atrist :Seal
+INFO ; 2018-05-05 20:53:34,387 ; Calling artist lookup webservice for artist_id: 155138 Atrist :Sean Paul
+INFO ; 2018-05-05 20:53:34,626 ; Calling album lookup webservice for artist_id: 155138 Atrist :Sean Paul
+WARNING ; 2018-05-05 20:53:35,135 ; No results for artist : Shaan Rahman
+INFO ; 2018-05-05 20:53:36,011 ; Calling artist lookup webservice for artist_id: 643887788 Atrist :Shabareesh Varma
+INFO ; 2018-05-05 20:53:36,434 ; Calling album lookup webservice for artist_id: 643887788 Atrist :Shabareesh Varma
+INFO ; 2018-05-05 20:53:37,360 ; Calling artist lookup webservice for artist_id: 68616 Atrist :Shaggy
+INFO ; 2018-05-05 20:53:37,790 ; Calling album lookup webservice for artist_id: 68616 Atrist :Shaggy
+WARNING ; 2018-05-05 20:53:38,293 ; No results for artist : Shawn Mendes
+WARNING ; 2018-05-05 20:53:38,557 ; No results for artist : Sheryl Crow
+WARNING ; 2018-05-05 20:53:38,823 ; No results for artist : Shirley
+WARNING ; 2018-05-05 20:53:39,119 ; No results for artist : Shreekumar Vakkiyil
+INFO ; 2018-05-05 20:53:39,834 ; Calling artist lookup webservice for artist_id: 19715559 Atrist :Shreya Ghoshal
+INFO ; 2018-05-05 20:53:40,169 ; Calling album lookup webservice for artist_id: 19715559 Atrist :Shreya Ghoshal
+INFO ; 2018-05-05 20:53:41,111 ; Calling artist lookup webservice for artist_id: 522608950 Atrist :Siddharth Menon
+INFO ; 2018-05-05 20:53:41,426 ; Calling album lookup webservice for artist_id: 522608950 Atrist :Siddharth Menon
+WARNING ; 2018-05-05 20:53:43,184 ; Artist : Simon not found from itunes search
+WARNING ; 2018-05-05 20:53:43,415 ; No results for artist : Sin ad O'Connor
+INFO ; 2018-05-05 20:53:44,498 ; Calling artist lookup webservice for artist_id: 791608827 Atrist :Sithara Krishnakumar
+INFO ; 2018-05-05 20:53:45,172 ; Calling album lookup webservice for artist_id: 791608827 Atrist :Sithara Krishnakumar
+WARNING ; 2018-05-05 20:53:45,446 ; Key error artist 791608827 Atrist :Sithara Krishnakumar
+INFO ; 2018-05-05 20:53:46,250 ; Calling artist lookup webservice for artist_id: 22683 Atrist :Sixpence None the Richer
+INFO ; 2018-05-05 20:53:46,557 ; Calling album lookup webservice for artist_id: 22683 Atrist :Sixpence None the Richer
+WARNING ; 2018-05-05 20:53:47,044 ; No results for artist : Sly Fox
+INFO ; 2018-05-05 20:53:47,848 ; Calling artist lookup webservice for artist_id: 372483728 Atrist :Sons of Maria
+INFO ; 2018-05-05 20:53:48,170 ; Calling album lookup webservice for artist_id: 372483728 Atrist :Sons of Maria
+WARNING ; 2018-05-05 20:53:48,648 ; No results for artist : Soundgarden
+WARNING ; 2018-05-05 20:53:48,917 ; No results for artist : Spice Girls
+WARNING ; 2018-05-05 20:53:49,172 ; No results for artist : Squeeze
+INFO ; 2018-05-05 20:53:49,920 ; Calling artist lookup webservice for artist_id: 183706 Atrist :Starship
+INFO ; 2018-05-05 20:53:50,288 ; Calling album lookup webservice for artist_id: 183706 Atrist :Starship
+INFO ; 2018-05-05 20:53:51,407 ; Calling artist lookup webservice for artist_id: 92175 Atrist :Status Quo
+INFO ; 2018-05-05 20:53:51,783 ; Calling album lookup webservice for artist_id: 92175 Atrist :Status Quo
+INFO ; 2018-05-05 20:53:52,669 ; Calling artist lookup webservice for artist_id: 84552 Atrist :Steve Winwood
+INFO ; 2018-05-05 20:53:52,905 ; Calling album lookup webservice for artist_id: 84552 Atrist :Steve Winwood
+WARNING ; 2018-05-05 20:53:53,652 ; No results for artist : Stevie Wonder
+WARNING ; 2018-05-05 20:53:53,951 ; No results for artist : Sting
+WARNING ; 2018-05-05 20:53:54,341 ; No results for artist : Strange Talk
+WARNING ; 2018-05-05 20:53:54,593 ; No results for artist : Styx
+WARNING ; 2018-05-05 20:53:55,449 ; Artist : Sugar Animal not found from itunes search
+WARNING ; 2018-05-05 20:53:55,716 ; No results for artist : Sum 41
+WARNING ; 2018-05-05 20:53:55,996 ; No results for artist : Supertramp
+INFO ; 2018-05-05 20:53:56,787 ; Calling artist lookup webservice for artist_id: 3713599 Atrist :Survivor
+INFO ; 2018-05-05 20:53:57,081 ; Calling album lookup webservice for artist_id: 3713599 Atrist :Survivor
+WARNING ; 2018-05-05 20:53:57,847 ; No results for artist : Suzanne Vega
+WARNING ; 2018-05-05 20:53:58,206 ; No results for artist : Take That
+WARNING ; 2018-05-05 20:53:58,516 ; No results for artist : Taylor Swift
+WARNING ; 2018-05-05 20:53:58,933 ; No results for artist : Tears for Fears
+WARNING ; 2018-05-05 20:53:59,242 ; No results for artist : Tesla
+WARNING ; 2018-05-05 20:53:59,591 ; No results for artist : Thakara
+WARNING ; 2018-05-05 20:53:59,996 ; No results for artist : The Allman Brothers Band
+WARNING ; 2018-05-05 20:54:00,259 ; No results for artist : The Bangles
+WARNING ; 2018-05-05 20:54:00,570 ; No results for artist : The Beatles
+WARNING ; 2018-05-05 20:54:00,900 ; No results for artist : The Black Eyed Peas
+WARNING ; 2018-05-05 20:54:01,218 ; No results for artist : The Brothers Johnson
+WARNING ; 2018-05-05 20:54:01,450 ; No results for artist : The Buggles
+WARNING ; 2018-05-05 20:54:01,694 ; No results for artist : The Cardigans
+WARNING ; 2018-05-05 20:54:01,933 ; No results for artist : The Cars
+WARNING ; 2018-05-05 20:54:02,263 ; No results for artist : The Cataracs
+WARNING ; 2018-05-05 20:54:02,679 ; No results for artist : The Chainsmokers
+WARNING ; 2018-05-05 20:54:03,018 ; No results for artist : The Corrs
+WARNING ; 2018-05-05 20:54:03,330 ; No results for artist : The Cranberries
+WARNING ; 2018-05-05 20:54:03,661 ; No results for artist : The Damned
+WARNING ; 2018-05-05 20:54:03,930 ; No results for artist : The Doors
+WARNING ; 2018-05-05 20:54:04,238 ; No results for artist : The Flying Burrito Brothers
+WARNING ; 2018-05-05 20:54:04,730 ; No results for artist : The Goo Goo Dolls
+WARNING ; 2018-05-05 20:54:05,455 ; No results for artist : The Hooters
+WARNING ; 2018-05-05 20:54:05,734 ; No results for artist : The Human League
+WARNING ; 2018-05-05 20:54:06,060 ; No results for artist : The Jam
+WARNING ; 2018-05-05 20:54:06,372 ; No results for artist : The Jets
+WARNING ; 2018-05-05 20:54:06,829 ; No results for artist : The Killers
+WARNING ; 2018-05-05 20:54:07,134 ; No results for artist : The Police
+WARNING ; 2018-05-05 20:54:07,604 ; No results for artist : The Presets
+WARNING ; 2018-05-05 20:54:07,899 ; No results for artist : The Proclaimers
+WARNING ; 2018-05-05 20:54:08,431 ; No results for artist : The Rolling Stones
+WARNING ; 2018-05-05 20:54:08,694 ; No results for artist : The Scorps
+WARNING ; 2018-05-05 20:54:09,007 ; No results for artist : The Spencer Davis Group
+WARNING ; 2018-05-05 20:54:09,490 ; No results for artist : The Stranglers
+WARNING ; 2018-05-05 20:54:09,765 ; No results for artist : The Weeknd
+WARNING ; 2018-05-05 20:54:10,178 ; No results for artist : Thin Lizzy
+WARNING ; 2018-05-05 20:54:10,568 ; No results for artist : Three Dog Night
+WARNING ; 2018-05-05 20:54:10,899 ; No results for artist : Ti sto
+WARNING ; 2018-05-05 20:54:11,310 ; No results for artist : Tim McGraw
+WARNING ; 2018-05-05 20:54:11,856 ; No results for artist : Tin Tin Out Featuring Emma Bunton
+WARNING ; 2018-05-05 20:54:12,280 ; No results for artist : Tom Petty
+WARNING ; 2018-05-05 20:54:12,546 ; No results for artist : Tom Tom Club
+WARNING ; 2018-05-05 20:54:12,898 ; No results for artist : Toto
+WARNING ; 2018-05-05 20:54:13,238 ; No results for artist : Tove Lo
+WARNING ; 2018-05-05 20:54:13,564 ; No results for artist : Traffic
+WARNING ; 2018-05-05 20:54:13,863 ; No results for artist : Transvision Vamp
+WARNING ; 2018-05-05 20:54:14,198 ; No results for artist : Tritonal
+WARNING ; 2018-05-05 20:54:14,617 ; No results for artist : U2
+WARNING ; 2018-05-05 20:54:14,962 ; No results for artist : Ugly Kid Joe
+WARNING ; 2018-05-05 20:54:15,446 ; No results for artist : Unni Menon
+WARNING ; 2018-05-05 20:54:15,805 ; No results for artist : Uriah Heep
+WARNING ; 2018-05-05 20:54:16,250 ; No results for artist : Van Halen
+WARNING ; 2018-05-05 20:54:16,547 ; No results for artist : Vijay Yesudas
+WARNING ; 2018-05-05 20:54:17,045 ; No results for artist : Village People
+WARNING ; 2018-05-05 20:54:17,588 ; No results for artist : Vineeth Sreenivasan
+WARNING ; 2018-05-05 20:54:18,146 ; No results for artist : Vinod Varma
+WARNING ; 2018-05-05 20:54:18,694 ; No results for artist : Wet Hot American Summer Cast
+WARNING ; 2018-05-05 20:54:19,207 ; No results for artist : Wham!
+WARNING ; 2018-05-05 20:54:19,729 ; No results for artist : Whitesnake
+WARNING ; 2018-05-05 20:54:20,074 ; No results for artist : Whitney Houston
+WARNING ; 2018-05-05 20:54:20,468 ; No results for artist : Yall
+WARNING ; 2018-05-05 20:54:20,749 ; No results for artist : Yazin Nizar
+WARNING ; 2018-05-05 20:54:21,027 ; No results for artist : Yelawolf
+WARNING ; 2018-05-05 20:54:21,293 ; No results for artist : Yes
+WARNING ; 2018-05-05 20:54:21,563 ; No results for artist : ZZ Ward
+WARNING ; 2018-05-05 20:54:21,883 ; No results for artist : Zia Ul Haq
+WARNING ; 2018-05-05 20:54:22,239 ; No results for artist : a-ha
+WARNING ; 2018-05-05 20:54:22,576 ; No results for artist : blink-182
+WARNING ; 2018-05-05 20:54:23,201 ; No results for artist : deadmau5 vs. Eric Prydz
+WARNING ; 2018-05-05 20:54:23,565 ; No results for artist : Foo Fighters
+WARNING ; 2018-05-05 20:54:23,960 ; No results for artist : Fool's Garden
+WARNING ; 2018-05-05 20:54:24,258 ; No results for artist : George Harrison
+WARNING ; 2018-05-05 20:54:24,603 ; No results for artist : George Michael
+WARNING ; 2018-05-05 20:54:24,965 ; No results for artist : *NSYNC
+WARNING ; 2018-05-05 20:54:25,458 ; No results for artist : 10cc
+WARNING ; 2018-05-05 20:54:25,730 ; No results for artist : 4 Non Blondes
+WARNING ; 2018-05-05 20:54:26,067 ; No results for artist : ABBA
+WARNING ; 2018-05-05 20:54:26,539 ; No results for artist : AWOLNATION
+WARNING ; 2018-05-05 20:54:27,139 ; No results for artist : Abeer Nehme
+WARNING ; 2018-05-05 20:54:28,008 ; No results for artist : Adele
+WARNING ; 2018-05-05 20:54:28,501 ; No results for artist : Aerosmith
+WARNING ; 2018-05-05 20:54:28,950 ; No results for artist : Air Supply
+WARNING ; 2018-05-05 20:54:29,526 ; No results for artist : Akcent
+WARNING ; 2018-05-05 20:54:30,020 ; No results for artist : Akon
+WARNING ; 2018-05-05 20:54:30,463 ; No results for artist : Alan Walker
+WARNING ; 2018-05-05 20:54:30,884 ; No results for artist : Alannah Myles
+WARNING ; 2018-05-05 20:54:31,281 ; No results for artist : Alphaville
+WARNING ; 2018-05-05 20:54:31,645 ; No results for artist : Alter Bridge
+WARNING ; 2018-05-05 20:54:32,056 ; No results for artist : Antony Daasan
+WARNING ; 2018-05-05 20:54:32,437 ; No results for artist : Anwar Sadath
+WARNING ; 2018-05-05 20:54:32,795 ; No results for artist : Ariana Grande
+WARNING ; 2018-05-05 20:54:33,403 ; No results for artist : Celine Dion
+WARNING ; 2018-05-05 20:54:33,864 ; No results for artist : Deepak Dev
+WARNING ; 2018-05-05 20:54:34,199 ; No results for artist : K. S. Chithra
+WARNING ; 2018-05-05 20:54:34,539 ; No results for artist : Kamal Haasan
+WARNING ; 2018-05-05 20:54:34,945 ; No results for artist : Mathangi
+WARNING ; 2018-05-05 20:54:35,477 ; No results for artist : Naresh Iyer
+WARNING ; 2018-05-05 20:54:36,021 ; No results for artist : Haricharan
+WARNING ; 2018-05-05 20:54:36,537 ; No results for artist : Jimmy Hart
+WARNING ; 2018-05-05 20:54:37,053 ; No results for artist : Shakira
+WARNING ; 2018-05-05 20:54:37,863 ; No results for artist : Shania Twain
+WARNING ; 2018-05-05 20:54:38,394 ; No results for artist : Sia
+INFO ; 2018-05-05 20:55:13,364 ; Process started
+INFO ; 2018-05-05 20:55:13,383 ; Connected to Oracle
+INFO ; 2018-05-05 20:55:13,583 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+WARNING ; 2018-05-05 20:55:13,649 ; No results for artist : Peter Amstrong
+WARNING ; 2018-05-05 20:55:13,953 ; No results for artist : Shaan Rahman
+WARNING ; 2018-05-05 20:55:14,292 ; No results for artist : Shawn Mendes
+WARNING ; 2018-05-05 20:55:14,842 ; No results for artist : Sheryl Crow
+WARNING ; 2018-05-05 20:55:15,142 ; No results for artist : Shirley
+WARNING ; 2018-05-05 20:55:15,421 ; No results for artist : Shreekumar Vakkiyil
+WARNING ; 2018-05-05 20:55:15,720 ; No results for artist : Sin ad O'Connor
+WARNING ; 2018-05-05 20:55:15,979 ; No results for artist : Sly Fox
+WARNING ; 2018-05-05 20:55:16,247 ; No results for artist : Soundgarden
+WARNING ; 2018-05-05 20:55:16,569 ; No results for artist : Spice Girls
+WARNING ; 2018-05-05 20:55:17,052 ; No results for artist : Squeeze
+WARNING ; 2018-05-05 20:55:17,380 ; No results for artist : Stevie Wonder
+WARNING ; 2018-05-05 20:55:17,616 ; No results for artist : Sting
+WARNING ; 2018-05-05 20:55:17,922 ; No results for artist : Strange Talk
+WARNING ; 2018-05-05 20:55:18,224 ; No results for artist : Styx
+WARNING ; 2018-05-05 20:55:18,647 ; No results for artist : Sum 41
+WARNING ; 2018-05-05 20:55:18,913 ; No results for artist : Supertramp
+WARNING ; 2018-05-05 20:55:19,222 ; No results for artist : Suzanne Vega
+WARNING ; 2018-05-05 20:55:19,539 ; No results for artist : Take That
+WARNING ; 2018-05-05 20:55:19,977 ; No results for artist : Taylor Swift
+WARNING ; 2018-05-05 20:55:20,245 ; No results for artist : Tears for Fears
+WARNING ; 2018-05-05 20:55:20,587 ; No results for artist : Tesla
+WARNING ; 2018-05-05 20:55:21,294 ; No results for artist : Thakara
+WARNING ; 2018-05-05 20:55:21,639 ; No results for artist : The Allman Brothers Band
+WARNING ; 2018-05-05 20:55:21,960 ; No results for artist : The Bangles
+WARNING ; 2018-05-05 20:55:22,320 ; No results for artist : The Beatles
+WARNING ; 2018-05-05 20:55:22,627 ; No results for artist : The Black Eyed Peas
+WARNING ; 2018-05-05 20:55:22,918 ; No results for artist : The Brothers Johnson
+WARNING ; 2018-05-05 20:55:23,340 ; No results for artist : The Buggles
+WARNING ; 2018-05-05 20:55:23,670 ; No results for artist : The Cardigans
+WARNING ; 2018-05-05 20:55:23,992 ; No results for artist : The Cars
+WARNING ; 2018-05-05 20:55:24,237 ; No results for artist : The Cataracs
+WARNING ; 2018-05-05 20:55:24,952 ; No results for artist : The Chainsmokers
+WARNING ; 2018-05-05 20:55:25,300 ; No results for artist : The Corrs
+WARNING ; 2018-05-05 20:55:25,765 ; No results for artist : The Cranberries
+WARNING ; 2018-05-05 20:55:26,124 ; No results for artist : The Damned
+WARNING ; 2018-05-05 20:55:26,546 ; No results for artist : The Doors
+WARNING ; 2018-05-05 20:55:26,813 ; No results for artist : The Flying Burrito Brothers
+WARNING ; 2018-05-05 20:55:27,160 ; No results for artist : The Goo Goo Dolls
+WARNING ; 2018-05-05 20:55:27,610 ; No results for artist : The Hooters
+WARNING ; 2018-05-05 20:55:27,922 ; No results for artist : The Human League
+WARNING ; 2018-05-05 20:55:28,185 ; No results for artist : The Jam
+WARNING ; 2018-05-05 20:55:28,422 ; No results for artist : The Jets
+WARNING ; 2018-05-05 20:55:28,718 ; No results for artist : The Killers
+WARNING ; 2018-05-05 20:55:29,025 ; No results for artist : The Police
+WARNING ; 2018-05-05 20:55:29,469 ; No results for artist : The Presets
+WARNING ; 2018-05-05 20:55:29,772 ; No results for artist : The Proclaimers
+WARNING ; 2018-05-05 20:55:30,116 ; No results for artist : The Rolling Stones
+WARNING ; 2018-05-05 20:55:30,407 ; No results for artist : The Scorps
+WARNING ; 2018-05-05 20:55:30,734 ; No results for artist : The Spencer Davis Group
+WARNING ; 2018-05-05 20:55:31,062 ; No results for artist : The Stranglers
+WARNING ; 2018-05-05 20:55:31,670 ; No results for artist : The Weeknd
+WARNING ; 2018-05-05 20:55:31,961 ; No results for artist : Thin Lizzy
+WARNING ; 2018-05-05 20:55:32,438 ; No results for artist : Three Dog Night
+WARNING ; 2018-05-05 20:55:32,678 ; No results for artist : Ti sto
+WARNING ; 2018-05-05 20:55:32,977 ; No results for artist : Tim McGraw
+WARNING ; 2018-05-05 20:55:33,514 ; No results for artist : Tin Tin Out Featuring Emma Bunton
+WARNING ; 2018-05-05 20:55:33,939 ; No results for artist : Tom Petty
+WARNING ; 2018-05-05 20:55:34,324 ; No results for artist : Tom Tom Club
+WARNING ; 2018-05-05 20:55:34,737 ; No results for artist : Toto
+WARNING ; 2018-05-05 20:55:35,168 ; No results for artist : Tove Lo
+WARNING ; 2018-05-05 20:55:35,486 ; No results for artist : Traffic
+WARNING ; 2018-05-05 20:55:35,781 ; No results for artist : Transvision Vamp
+WARNING ; 2018-05-05 20:55:36,330 ; No results for artist : Tritonal
+WARNING ; 2018-05-05 20:55:36,809 ; No results for artist : U2
+WARNING ; 2018-05-05 20:55:37,138 ; No results for artist : Ugly Kid Joe
+WARNING ; 2018-05-05 20:55:37,578 ; No results for artist : Unni Menon
+WARNING ; 2018-05-05 20:55:37,840 ; No results for artist : Uriah Heep
+WARNING ; 2018-05-05 20:55:38,160 ; No results for artist : Van Halen
+WARNING ; 2018-05-05 20:55:38,474 ; No results for artist : Vijay Yesudas
+WARNING ; 2018-05-05 20:55:38,921 ; No results for artist : Village People
+WARNING ; 2018-05-05 20:55:39,204 ; No results for artist : Vineeth Sreenivasan
+WARNING ; 2018-05-05 20:55:39,749 ; No results for artist : Vinod Varma
+WARNING ; 2018-05-05 20:55:40,050 ; No results for artist : Wet Hot American Summer Cast
+WARNING ; 2018-05-05 20:55:40,295 ; No results for artist : Wham!
+WARNING ; 2018-05-05 20:55:40,593 ; No results for artist : Whitesnake
+WARNING ; 2018-05-05 20:55:40,832 ; No results for artist : Whitney Houston
+WARNING ; 2018-05-05 20:55:41,419 ; No results for artist : Yall
+WARNING ; 2018-05-05 20:55:41,799 ; No results for artist : Yazin Nizar
+WARNING ; 2018-05-05 20:55:42,111 ; No results for artist : Yelawolf
+WARNING ; 2018-05-05 20:55:42,412 ; No results for artist : Yes
+WARNING ; 2018-05-05 20:55:42,762 ; No results for artist : ZZ Ward
+WARNING ; 2018-05-05 20:55:43,061 ; No results for artist : Zia Ul Haq
+WARNING ; 2018-05-05 20:55:43,578 ; No results for artist : a-ha
+WARNING ; 2018-05-05 20:55:43,839 ; No results for artist : blink-182
+WARNING ; 2018-05-05 20:55:44,069 ; No results for artist : deadmau5 vs. Eric Prydz
+WARNING ; 2018-05-05 20:55:44,300 ; No results for artist : Foo Fighters
+WARNING ; 2018-05-05 20:55:44,535 ; No results for artist : Fool's Garden
+WARNING ; 2018-05-05 20:55:44,925 ; No results for artist : George Harrison
+WARNING ; 2018-05-05 20:55:45,279 ; No results for artist : George Michael
+WARNING ; 2018-05-05 20:55:46,113 ; No results for artist : *NSYNC
+WARNING ; 2018-05-05 20:55:46,350 ; No results for artist : 10cc
+WARNING ; 2018-05-05 20:55:46,810 ; No results for artist : 4 Non Blondes
+WARNING ; 2018-05-05 20:55:47,130 ; No results for artist : ABBA
+WARNING ; 2018-05-05 20:55:47,383 ; No results for artist : AWOLNATION
+WARNING ; 2018-05-05 20:55:47,697 ; No results for artist : Abeer Nehme
+WARNING ; 2018-05-05 20:55:48,164 ; No results for artist : Adele
+WARNING ; 2018-05-05 20:55:48,463 ; No results for artist : Aerosmith
+WARNING ; 2018-05-05 20:55:48,800 ; No results for artist : Air Supply
+WARNING ; 2018-05-05 20:55:49,126 ; No results for artist : Akcent
+WARNING ; 2018-05-05 20:55:50,189 ; No results for artist : Akon
+WARNING ; 2018-05-05 20:55:50,545 ; No results for artist : Alan Walker
+WARNING ; 2018-05-05 20:55:50,890 ; No results for artist : Alannah Myles
+WARNING ; 2018-05-05 20:55:51,188 ; No results for artist : Alphaville
+WARNING ; 2018-05-05 20:55:51,691 ; No results for artist : Alter Bridge
+WARNING ; 2018-05-05 20:55:52,063 ; No results for artist : Antony Daasan
+WARNING ; 2018-05-05 20:55:52,363 ; No results for artist : Anwar Sadath
+WARNING ; 2018-05-05 20:55:52,592 ; No results for artist : Ariana Grande
+WARNING ; 2018-05-05 20:55:52,925 ; No results for artist : Celine Dion
+WARNING ; 2018-05-05 20:55:53,348 ; No results for artist : Deepak Dev
+WARNING ; 2018-05-05 20:55:53,747 ; No results for artist : K. S. Chithra
+WARNING ; 2018-05-05 20:55:54,072 ; No results for artist : Kamal Haasan
+WARNING ; 2018-05-05 20:55:54,384 ; No results for artist : Mathangi
+WARNING ; 2018-05-05 20:55:54,683 ; No results for artist : Naresh Iyer
+WARNING ; 2018-05-05 20:55:54,965 ; No results for artist : Haricharan
+WARNING ; 2018-05-05 20:55:55,239 ; No results for artist : Jimmy Hart
+WARNING ; 2018-05-05 20:55:55,560 ; No results for artist : Shakira
+WARNING ; 2018-05-05 20:55:55,880 ; No results for artist : Shania Twain
+WARNING ; 2018-05-05 20:55:56,180 ; No results for artist : Sia

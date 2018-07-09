@@ -1,0 +1,6 @@
+INFO ; 2018-05-05 20:25:17,386 ; Process started
+INFO ; 2018-05-05 20:25:17,464 ; Connected to Oracle
+INFO ; 2018-05-05 20:25:18,605 ; Calling artist lookup webservice for artist_id: 448199536 Atrist :Age Of Rock
+INFO ; 2018-05-05 20:25:18,911 ; Calling album lookup webservice for artist_id: 448199536 Atrist :Age Of Rock
+INFO ; 2018-05-05 20:25:20,218 ; Calling artist lookup webservice for artist_id: 3579411 Atrist :Alka Yagnik
+INFO ; 2018-05-05 20:25:20,526 ; Calling album lookup webservice for artist_id: 3579411 Atrist :Alka Yagnik

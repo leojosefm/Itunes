@@ -1,0 +1,30 @@
+INFO ; 2018-05-05 20:29:25,047 ; Process started
+INFO ; 2018-05-05 20:29:25,141 ; Connected to Oracle
+INFO ; 2018-05-05 20:29:25,815 ; Calling artist lookup webservice for artist_id: 1208991367 Atrist :Angamaly Pranchi
+INFO ; 2018-05-05 20:29:26,124 ; Calling album lookup webservice for artist_id: 1208991367 Atrist :Angamaly Pranchi
+WARNING ; 2018-05-05 20:29:26,869 ; No results for artist : Anirudh Ravichander
+WARNING ; 2018-05-05 20:29:27,342 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:29:28,141 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 20:29:29,216 ; Artist : Blue not found from itunes search
+INFO ; 2018-05-05 20:29:29,737 ; Calling artist lookup webservice for artist_id: 121982 Atrist :Bob Marley
+INFO ; 2018-05-05 20:29:30,057 ; Calling album lookup webservice for artist_id: 121982 Atrist :Bob Marley
+WARNING ; 2018-05-05 20:29:30,601 ; No results for artist : Bon Jovi (RaagWap.CoM)
+WARNING ; 2018-05-05 20:29:31,476 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 20:29:32,119 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 20:29:32,411 ; No results for artist : Haricharan
+WARNING ; 2018-05-05 20:29:32,705 ; No results for artist : Jimmy Hart
+WARNING ; 2018-05-05 20:29:33,183 ; Artist : Joey Tempest not found from itunes search
+INFO ; 2018-05-05 20:29:34,253 ; Calling artist lookup webservice for artist_id: 315383459 Atrist :Lathika
+INFO ; 2018-05-05 20:29:34,678 ; Calling album lookup webservice for artist_id: 315383459 Atrist :Lathika
+WARNING ; 2018-05-05 20:29:35,000 ; Key error artist 315383459 Atrist :Lathika
+INFO ; 2018-05-05 20:29:35,808 ; Calling artist lookup webservice for artist_id: 19393615 Atrist :Laxmikant
+INFO ; 2018-05-05 20:29:36,150 ; Calling album lookup webservice for artist_id: 19393615 Atrist :Laxmikant
+WARNING ; 2018-05-05 20:29:37,115 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:29:37,758 ; No results for artist : M tley Cr e
+INFO ; 2018-05-05 20:29:38,714 ; Calling artist lookup webservice for artist_id: 18485191 Atrist :M. G. Sreekumar
+INFO ; 2018-05-05 20:29:38,982 ; Calling album lookup webservice for artist_id: 18485191 Atrist :M. G. Sreekumar
+WARNING ; 2018-05-05 20:29:39,971 ; Artist : Madhuvanthi Narayan not found from itunes search
+WARNING ; 2018-05-05 20:29:40,364 ; No results for artist : P.P. Arnold
+WARNING ; 2018-05-05 20:29:40,658 ; No results for artist : Paul Weller
+WARNING ; 2018-05-05 20:29:40,969 ; No results for artist : Pet Shop Boys
+INFO ; 2018-05-05 20:29:41,442 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong

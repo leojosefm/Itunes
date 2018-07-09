@@ -1,0 +1,26 @@
+INFO ; 2018-06-19 11:43:47,809 ; Process started
+INFO ; 2018-06-19 11:43:48,017 ; Connected to Oracle
+WARNING ; 2018-06-19 11:43:48,695 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-06-19 11:43:49,786 ; Artist : Beyonce not found from itunes search
+WARNING ; 2018-06-19 11:43:51,003 ; Artist : Blue not found from itunes search
+WARNING ; 2018-06-19 11:43:52,331 ; Artist : Godley not found from itunes search
+WARNING ; 2018-06-19 11:43:52,876 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-06-19 11:43:53,481 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-06-19 11:43:53,930 ; Artist : Madhuvanthi Narayan not found from itunes search
+WARNING ; 2018-06-19 11:43:55,221 ; Artist : Simon not found from itunes search
+WARNING ; 2018-06-19 11:43:55,568 ; Artist : Sin ad O'Connor not found from itunes search
+WARNING ; 2018-06-19 11:43:56,339 ; Artist : Sugar Animal not found from itunes search
+WARNING ; 2018-06-19 11:43:56,952 ; Artist : The Scorps not found from itunes search
+WARNING ; 2018-06-19 11:43:58,180 ; Artist : Ti sto not found from itunes search
+WARNING ; 2018-06-19 11:43:59,048 ; Artist : Celine Dion not found from itunes search
+WARNING ; 2018-06-19 11:43:59,619 ; Artist : Jimmy Hart not found from itunes search
+WARNING ; 2018-06-19 11:44:00,575 ; Artist : USA for Africa not found from itunes search
+INFO ; 2018-06-19 11:44:01,369 ; Calling artist lookup webservice for artist_id: 1354519661 Atrist :Prarthana Indrajith
+INFO ; 2018-06-19 11:44:01,655 ; Calling album lookup webservice for artist_id: 1354519661 Atrist :Prarthana Indrajith
+WARNING ; 2018-06-19 11:44:02,177 ; Key error artist 1354519661 Atrist :Prarthana Indrajith
+INFO ; 2018-06-19 11:44:02,841 ; Calling artist lookup webservice for artist_id: 203739 Atrist :Brad Paisley
+INFO ; 2018-06-19 11:44:03,494 ; Calling album lookup webservice for artist_id: 203739 Atrist :Brad Paisley
+INFO ; 2018-06-19 11:44:15,143 ; Process started
+INFO ; 2018-06-19 11:44:15,576 ; hash value of input file: 756a8ceda6d989117191e4bac8c94734
+INFO ; 2018-06-19 11:44:15,576 ; Checking if file with same hash value processed previously
+INFO ; 2018-06-19 11:44:20,569 ; CSV File written

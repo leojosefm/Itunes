@@ -1,0 +1,54 @@
+INFO ; 2018-05-05 20:17:48,148 ; Process started
+INFO ; 2018-05-05 20:17:48,254 ; Connected to Oracle
+WARNING ; 2018-05-05 20:17:50,635 ; Artist : Age Of Rock not found from itunes search
+WARNING ; 2018-05-05 20:17:51,759 ; Artist : Alka Yagnik not found from itunes search
+WARNING ; 2018-05-05 20:17:52,713 ; Artist : Angamaly Pranchi not found from itunes search
+WARNING ; 2018-05-05 20:17:53,938 ; Artist : Anirudh Ravichander not found from itunes search
+WARNING ; 2018-05-05 20:17:55,454 ; Artist : Arun Raj Kamaraja not found from itunes search
+WARNING ; 2018-05-05 20:17:56,836 ; Artist : Beyonc not found from itunes search
+WARNING ; 2018-05-05 20:17:58,150 ; Artist : Blue not found from itunes search
+WARNING ; 2018-05-05 20:17:59,372 ; Artist : Bob Marley not found from itunes search
+WARNING ; 2018-05-05 20:18:01,323 ; Artist : Celine Dion not found from itunes search
+WARNING ; 2018-05-05 20:18:02,855 ; Artist : Deepak Dev not found from itunes search
+WARNING ; 2018-05-05 20:18:04,744 ; Artist : Godley not found from itunes search
+WARNING ; 2018-05-05 20:18:06,017 ; Artist : Guns 'n' Roses not found from itunes search
+WARNING ; 2018-05-05 20:18:07,602 ; Artist : Haricharan not found from itunes search
+WARNING ; 2018-05-05 20:18:09,537 ; Artist : Jimmy Hart not found from itunes search
+WARNING ; 2018-05-05 20:18:12,635 ; Artist : Joey Tempest not found from itunes search
+WARNING ; 2018-05-05 20:18:17,089 ; Artist : K. S. Chithra not found from itunes search
+WARNING ; 2018-05-05 20:18:18,436 ; Artist : Kamal Haasan not found from itunes search
+WARNING ; 2018-05-05 20:18:19,708 ; Artist : Lathika not found from itunes search
+WARNING ; 2018-05-05 20:18:20,833 ; Artist : Laxmikant not found from itunes search
+WARNING ; 2018-05-05 20:18:22,066 ; Artist : Los del R o not found from itunes search
+WARNING ; 2018-05-05 20:18:24,168 ; Artist : M. G. Sreekumar not found from itunes search
+WARNING ; 2018-05-05 20:18:26,022 ; Artist : Madhuvanthi Narayan not found from itunes search
+WARNING ; 2018-05-05 20:18:27,936 ; Artist : Mathangi not found from itunes search
+WARNING ; 2018-05-05 20:18:29,487 ; Artist : Naresh Iyer not found from itunes search
+INFO ; 2018-05-05 20:18:30,968 ; Calling artist lookup webservice for artist_id: 33987470 Atrist :Nicky Jam
+INFO ; 2018-05-05 20:18:32,233 ; Calling album lookup webservice for artist_id: 33987470 Atrist :Nicky Jam
+INFO ; 2018-05-05 20:18:34,252 ; Calling artist lookup webservice for artist_id: 94900 Atrist :Night Ranger
+INFO ; 2018-05-05 20:18:35,497 ; Calling album lookup webservice for artist_id: 94900 Atrist :Night Ranger
+INFO ; 2018-05-05 20:18:38,265 ; Calling artist lookup webservice for artist_id: 2898807 Atrist :Nightwish
+INFO ; 2018-05-05 20:18:39,488 ; Calling album lookup webservice for artist_id: 2898807 Atrist :Nightwish
+INFO ; 2018-05-05 20:18:41,557 ; Calling artist lookup webservice for artist_id: 356798633 Atrist :Nikhil Mathew
+INFO ; 2018-05-05 20:18:42,570 ; Calling album lookup webservice for artist_id: 356798633 Atrist :Nikhil Mathew
+INFO ; 2018-05-05 20:18:45,577 ; Calling artist lookup webservice for artist_id: 107917 Atrist :Nine Inch Nails
+INFO ; 2018-05-05 20:18:46,826 ; Calling album lookup webservice for artist_id: 107917 Atrist :Nine Inch Nails
+INFO ; 2018-05-05 20:18:49,858 ; Calling artist lookup webservice for artist_id: 1016512 Atrist :No Doubt
+INFO ; 2018-05-05 20:18:50,811 ; Calling album lookup webservice for artist_id: 1016512 Atrist :No Doubt
+INFO ; 2018-05-05 20:18:53,134 ; Calling artist lookup webservice for artist_id: 154540690 Atrist :No Mercy
+INFO ; 2018-05-05 20:18:57,347 ; Calling album lookup webservice for artist_id: 154540690 Atrist :No Mercy
+INFO ; 2018-05-05 20:19:00,204 ; Calling artist lookup webservice for artist_id: 38843 Atrist :Ocean Colour Scene
+INFO ; 2018-05-05 20:19:01,143 ; Calling album lookup webservice for artist_id: 38843 Atrist :Ocean Colour Scene
+INFO ; 2018-05-05 20:19:07,015 ; Calling artist lookup webservice for artist_id: 3544325 Atrist :Odyssey
+INFO ; 2018-05-05 20:19:08,339 ; Calling album lookup webservice for artist_id: 3544325 Atrist :Odyssey
+INFO ; 2018-05-05 20:19:10,981 ; Calling artist lookup webservice for artist_id: 396754057 Atrist :One Direction
+INFO ; 2018-05-05 20:19:12,162 ; Calling album lookup webservice for artist_id: 396754057 Atrist :One Direction
+INFO ; 2018-05-05 20:19:17,947 ; Calling artist lookup webservice for artist_id: 260414340 Atrist :OneRepublic
+INFO ; 2018-05-05 20:19:19,373 ; Calling album lookup webservice for artist_id: 260414340 Atrist :OneRepublic
+INFO ; 2018-05-05 20:19:21,321 ; Calling artist lookup webservice for artist_id: 886834 Atrist :Ozzy Osbourne
+INFO ; 2018-05-05 20:19:22,281 ; Calling album lookup webservice for artist_id: 886834 Atrist :Ozzy Osbourne
+INFO ; 2018-05-05 20:19:24,875 ; Calling artist lookup webservice for artist_id: 18047361 Atrist :P. Jayachandran
+INFO ; 2018-05-05 20:19:26,325 ; Calling album lookup webservice for artist_id: 18047361 Atrist :P. Jayachandran
+INFO ; 2018-05-05 20:19:29,282 ; Calling artist lookup webservice for artist_id: 31271222 Atrist :P.P. Arnold
+INFO ; 2018-05-05 20:19:30,228 ; Calling album lookup webservice for artist_id: 31271222 Atrist :P.P. Arnold

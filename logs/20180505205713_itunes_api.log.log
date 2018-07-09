@@ -1,0 +1,238 @@
+INFO ; 2018-05-05 20:57:13,154 ; Process started
+INFO ; 2018-05-05 20:57:13,240 ; Connected to Oracle
+INFO ; 2018-05-05 20:57:27,310 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+WARNING ; 2018-05-05 20:57:28,755 ; No results for artist : Peter Amstrong
+INFO ; 2018-05-05 20:57:30,871 ; Calling artist lookup webservice for artist_id: 381176612 Atrist :Shaan Rahman
+INFO ; 2018-05-05 20:57:32,086 ; Calling album lookup webservice for artist_id: 381176612 Atrist :Shaan Rahman
+INFO ; 2018-05-05 20:57:34,647 ; Calling artist lookup webservice for artist_id: 890403665 Atrist :Shawn Mendes
+INFO ; 2018-05-05 20:57:36,178 ; Calling album lookup webservice for artist_id: 890403665 Atrist :Shawn Mendes
+INFO ; 2018-05-05 20:57:40,294 ; Calling artist lookup webservice for artist_id: 58757 Atrist :Sheryl Crow
+INFO ; 2018-05-05 20:57:41,506 ; Calling album lookup webservice for artist_id: 58757 Atrist :Sheryl Crow
+INFO ; 2018-05-05 20:57:44,300 ; Calling artist lookup webservice for artist_id: 39696818 Atrist :Shirley
+INFO ; 2018-05-05 20:57:45,748 ; Calling album lookup webservice for artist_id: 39696818 Atrist :Shirley
+INFO ; 2018-05-05 20:57:50,384 ; Calling artist lookup webservice for artist_id: 531043607 Atrist :Shreekumar Vakkiyil
+INFO ; 2018-05-05 20:57:51,568 ; Calling album lookup webservice for artist_id: 531043607 Atrist :Shreekumar Vakkiyil
+WARNING ; 2018-05-05 20:57:54,210 ; Artist : Sin ad O'Connor not found from itunes search
+INFO ; 2018-05-05 20:57:56,824 ; Calling artist lookup webservice for artist_id: 20371640 Atrist :Sly Fox
+INFO ; 2018-05-05 20:57:58,461 ; Calling album lookup webservice for artist_id: 20371640 Atrist :Sly Fox
+INFO ; 2018-05-05 20:58:01,619 ; Calling artist lookup webservice for artist_id: 133036 Atrist :Soundgarden
+INFO ; 2018-05-05 20:58:02,836 ; Calling album lookup webservice for artist_id: 133036 Atrist :Soundgarden
+INFO ; 2018-05-05 20:58:05,786 ; Calling artist lookup webservice for artist_id: 646793 Atrist :Spice Girls
+INFO ; 2018-05-05 20:58:07,228 ; Calling album lookup webservice for artist_id: 646793 Atrist :Spice Girls
+INFO ; 2018-05-05 20:58:11,519 ; Calling artist lookup webservice for artist_id: 93650 Atrist :Squeeze
+INFO ; 2018-05-05 20:58:12,741 ; Calling album lookup webservice for artist_id: 93650 Atrist :Squeeze
+INFO ; 2018-05-05 20:58:15,795 ; Calling artist lookup webservice for artist_id: 46726 Atrist :Stevie Wonder
+INFO ; 2018-05-05 20:58:17,363 ; Calling album lookup webservice for artist_id: 46726 Atrist :Stevie Wonder
+INFO ; 2018-05-05 20:58:21,081 ; Calling artist lookup webservice for artist_id: 94804 Atrist :Sting
+INFO ; 2018-05-05 20:58:22,177 ; Calling album lookup webservice for artist_id: 94804 Atrist :Sting
+INFO ; 2018-05-05 20:58:24,951 ; Calling artist lookup webservice for artist_id: 425263192 Atrist :Strange Talk
+INFO ; 2018-05-05 20:58:26,457 ; Calling album lookup webservice for artist_id: 425263192 Atrist :Strange Talk
+INFO ; 2018-05-05 20:58:29,938 ; Calling artist lookup webservice for artist_id: 132659 Atrist :Styx
+INFO ; 2018-05-05 20:58:32,418 ; Calling album lookup webservice for artist_id: 132659 Atrist :Styx
+INFO ; 2018-05-05 20:58:35,280 ; Calling artist lookup webservice for artist_id: 249591 Atrist :Sum 41
+INFO ; 2018-05-05 20:58:36,842 ; Calling album lookup webservice for artist_id: 249591 Atrist :Sum 41
+INFO ; 2018-05-05 20:58:40,292 ; Calling artist lookup webservice for artist_id: 43246 Atrist :Supertramp
+INFO ; 2018-05-05 20:58:41,498 ; Calling album lookup webservice for artist_id: 43246 Atrist :Supertramp
+INFO ; 2018-05-05 20:58:44,352 ; Calling artist lookup webservice for artist_id: 22665 Atrist :Suzanne Vega
+INFO ; 2018-05-05 20:58:46,051 ; Calling album lookup webservice for artist_id: 22665 Atrist :Suzanne Vega
+INFO ; 2018-05-05 20:58:49,254 ; Calling artist lookup webservice for artist_id: 13653352 Atrist :Take That
+INFO ; 2018-05-05 20:58:50,735 ; Calling album lookup webservice for artist_id: 13653352 Atrist :Take That
+INFO ; 2018-05-05 20:58:53,780 ; Calling artist lookup webservice for artist_id: 159260351 Atrist :Taylor Swift
+INFO ; 2018-05-05 20:58:55,499 ; Calling album lookup webservice for artist_id: 159260351 Atrist :Taylor Swift
+INFO ; 2018-05-05 20:58:58,975 ; Calling artist lookup webservice for artist_id: 45218 Atrist :Tears for Fears
+INFO ; 2018-05-05 20:59:00,411 ; Calling album lookup webservice for artist_id: 45218 Atrist :Tears for Fears
+INFO ; 2018-05-05 20:59:02,978 ; Calling artist lookup webservice for artist_id: 113592 Atrist :Tesla
+INFO ; 2018-05-05 20:59:04,202 ; Calling album lookup webservice for artist_id: 113592 Atrist :Tesla
+INFO ; 2018-05-05 20:59:07,193 ; Calling artist lookup webservice for artist_id: 895061839 Atrist :Thakara
+INFO ; 2018-05-05 20:59:08,695 ; Calling album lookup webservice for artist_id: 895061839 Atrist :Thakara
+INFO ; 2018-05-05 20:59:11,897 ; Calling artist lookup webservice for artist_id: 127835 Atrist :The Allman Brothers Band
+INFO ; 2018-05-05 20:59:13,142 ; Calling album lookup webservice for artist_id: 127835 Atrist :The Allman Brothers Band
+INFO ; 2018-05-05 20:59:16,590 ; Calling artist lookup webservice for artist_id: 3932789 Atrist :The Bangles
+INFO ; 2018-05-05 20:59:18,186 ; Calling album lookup webservice for artist_id: 3932789 Atrist :The Bangles
+INFO ; 2018-05-05 20:59:21,353 ; Calling artist lookup webservice for artist_id: 136975 Atrist :The Beatles
+INFO ; 2018-05-05 20:59:22,417 ; Calling album lookup webservice for artist_id: 136975 Atrist :The Beatles
+INFO ; 2018-05-05 20:59:25,001 ; Calling artist lookup webservice for artist_id: 360391 Atrist :The Black Eyed Peas
+INFO ; 2018-05-05 20:59:26,618 ; Calling album lookup webservice for artist_id: 360391 Atrist :The Black Eyed Peas
+INFO ; 2018-05-05 20:59:30,127 ; Calling artist lookup webservice for artist_id: 42348 Atrist :The Brothers Johnson
+INFO ; 2018-05-05 20:59:31,339 ; Calling album lookup webservice for artist_id: 42348 Atrist :The Brothers Johnson
+INFO ; 2018-05-05 20:59:34,305 ; Calling artist lookup webservice for artist_id: 1534861 Atrist :The Buggles
+INFO ; 2018-05-05 20:59:35,927 ; Calling album lookup webservice for artist_id: 1534861 Atrist :The Buggles
+INFO ; 2018-05-05 20:59:39,551 ; Calling artist lookup webservice for artist_id: 259828 Atrist :The Cardigans
+INFO ; 2018-05-05 20:59:40,996 ; Calling album lookup webservice for artist_id: 259828 Atrist :The Cardigans
+INFO ; 2018-05-05 20:59:43,776 ; Calling artist lookup webservice for artist_id: 5132457 Atrist :The Cars
+INFO ; 2018-05-05 20:59:45,013 ; Calling album lookup webservice for artist_id: 5132457 Atrist :The Cars
+INFO ; 2018-05-05 20:59:48,513 ; Calling artist lookup webservice for artist_id: 200318528 Atrist :The Cataracs
+INFO ; 2018-05-05 20:59:50,070 ; Calling album lookup webservice for artist_id: 200318528 Atrist :The Cataracs
+INFO ; 2018-05-05 20:59:53,124 ; Calling artist lookup webservice for artist_id: 580391756 Atrist :The Chainsmokers
+INFO ; 2018-05-05 20:59:54,299 ; Calling album lookup webservice for artist_id: 580391756 Atrist :The Chainsmokers
+INFO ; 2018-05-05 20:59:57,690 ; Calling artist lookup webservice for artist_id: 146684 Atrist :The Corrs
+INFO ; 2018-05-05 20:59:59,530 ; Calling album lookup webservice for artist_id: 146684 Atrist :The Corrs
+INFO ; 2018-05-05 21:00:02,785 ; Calling artist lookup webservice for artist_id: 122615 Atrist :The Cranberries
+INFO ; 2018-05-05 21:00:04,003 ; Calling album lookup webservice for artist_id: 122615 Atrist :The Cranberries
+INFO ; 2018-05-05 21:00:06,889 ; Calling artist lookup webservice for artist_id: 3184019 Atrist :The Damned
+INFO ; 2018-05-05 21:00:08,482 ; Calling album lookup webservice for artist_id: 3184019 Atrist :The Damned
+INFO ; 2018-05-05 21:00:12,105 ; Calling artist lookup webservice for artist_id: 1248588 Atrist :The Doors
+INFO ; 2018-05-05 21:00:13,317 ; Calling album lookup webservice for artist_id: 1248588 Atrist :The Doors
+INFO ; 2018-05-05 21:00:16,133 ; Calling artist lookup webservice for artist_id: 361944 Atrist :The Flying Burrito Brothers
+INFO ; 2018-05-05 21:00:18,829 ; Calling album lookup webservice for artist_id: 361944 Atrist :The Flying Burrito Brothers
+INFO ; 2018-05-05 21:00:22,010 ; Calling artist lookup webservice for artist_id: 147559 Atrist :The Goo Goo Dolls
+INFO ; 2018-05-05 21:00:23,220 ; Calling album lookup webservice for artist_id: 147559 Atrist :The Goo Goo Dolls
+INFO ; 2018-05-05 21:00:26,599 ; Calling artist lookup webservice for artist_id: 461258 Atrist :The Hooters
+INFO ; 2018-05-05 21:00:28,289 ; Calling album lookup webservice for artist_id: 461258 Atrist :The Hooters
+INFO ; 2018-05-05 21:00:31,700 ; Calling artist lookup webservice for artist_id: 14138758 Atrist :The Human League
+INFO ; 2018-05-05 21:00:33,155 ; Calling album lookup webservice for artist_id: 14138758 Atrist :The Human League
+INFO ; 2018-05-05 21:00:37,151 ; Calling artist lookup webservice for artist_id: 92673 Atrist :The Jam
+INFO ; 2018-05-05 21:00:39,327 ; Calling album lookup webservice for artist_id: 92673 Atrist :The Jam
+INFO ; 2018-05-05 21:00:43,223 ; Calling artist lookup webservice for artist_id: 26721 Atrist :The Jets
+INFO ; 2018-05-05 21:00:44,577 ; Calling album lookup webservice for artist_id: 26721 Atrist :The Jets
+INFO ; 2018-05-05 21:00:48,382 ; Calling artist lookup webservice for artist_id: 6483093 Atrist :The Killers
+INFO ; 2018-05-05 21:00:49,705 ; Calling album lookup webservice for artist_id: 6483093 Atrist :The Killers
+INFO ; 2018-05-05 21:00:52,563 ; Calling artist lookup webservice for artist_id: 93818 Atrist :The Police
+INFO ; 2018-05-05 21:00:53,799 ; Calling album lookup webservice for artist_id: 93818 Atrist :The Police
+INFO ; 2018-05-05 21:00:56,942 ; Calling artist lookup webservice for artist_id: 78745197 Atrist :The Presets
+INFO ; 2018-05-05 21:00:58,498 ; Calling album lookup webservice for artist_id: 78745197 Atrist :The Presets
+INFO ; 2018-05-05 21:01:01,677 ; Calling artist lookup webservice for artist_id: 396562 Atrist :The Proclaimers
+INFO ; 2018-05-05 21:01:03,061 ; Calling album lookup webservice for artist_id: 396562 Atrist :The Proclaimers
+INFO ; 2018-05-05 21:01:06,134 ; Calling artist lookup webservice for artist_id: 1249595 Atrist :The Rolling Stones
+INFO ; 2018-05-05 21:01:07,709 ; Calling album lookup webservice for artist_id: 1249595 Atrist :The Rolling Stones
+WARNING ; 2018-05-05 21:01:10,763 ; Artist : The Scorps not found from itunes search
+INFO ; 2018-05-05 21:01:12,414 ; Calling artist lookup webservice for artist_id: 489683 Atrist :The Spencer Davis Group
+INFO ; 2018-05-05 21:01:13,675 ; Calling album lookup webservice for artist_id: 489683 Atrist :The Spencer Davis Group
+INFO ; 2018-05-05 21:01:17,455 ; Calling artist lookup webservice for artist_id: 20828456 Atrist :The Stranglers
+INFO ; 2018-05-05 21:01:19,040 ; Calling album lookup webservice for artist_id: 20828456 Atrist :The Stranglers
+INFO ; 2018-05-05 21:01:22,113 ; Calling artist lookup webservice for artist_id: 479756766 Atrist :The Weeknd
+INFO ; 2018-05-05 21:01:23,179 ; Calling album lookup webservice for artist_id: 479756766 Atrist :The Weeknd
+INFO ; 2018-05-05 21:01:26,563 ; Calling artist lookup webservice for artist_id: 79217 Atrist :Thin Lizzy
+INFO ; 2018-05-05 21:01:28,157 ; Calling album lookup webservice for artist_id: 79217 Atrist :Thin Lizzy
+INFO ; 2018-05-05 21:01:31,578 ; Calling artist lookup webservice for artist_id: 96820 Atrist :Three Dog Night
+INFO ; 2018-05-05 21:01:32,800 ; Calling album lookup webservice for artist_id: 96820 Atrist :Three Dog Night
+WARNING ; 2018-05-05 21:01:35,927 ; Artist : Ti sto not found from itunes search
+INFO ; 2018-05-05 21:01:37,766 ; Calling artist lookup webservice for artist_id: 3496236 Atrist :Tim McGraw
+INFO ; 2018-05-05 21:01:39,313 ; Calling album lookup webservice for artist_id: 3496236 Atrist :Tim McGraw
+INFO ; 2018-05-05 21:01:41,984 ; Calling artist lookup webservice for artist_id: 17643123 Atrist :Tin Tin Out Featuring Emma Bunton
+INFO ; 2018-05-05 21:01:43,174 ; Calling album lookup webservice for artist_id: 17643123 Atrist :Tin Tin Out Featuring Emma Bunton
+INFO ; 2018-05-05 21:01:46,670 ; Calling artist lookup webservice for artist_id: 5072272 Atrist :Tom Petty
+INFO ; 2018-05-05 21:01:48,511 ; Calling album lookup webservice for artist_id: 5072272 Atrist :Tom Petty
+INFO ; 2018-05-05 21:01:51,510 ; Calling artist lookup webservice for artist_id: 205492 Atrist :Tom Tom Club
+INFO ; 2018-05-05 21:01:52,766 ; Calling album lookup webservice for artist_id: 205492 Atrist :Tom Tom Club
+INFO ; 2018-05-05 21:01:55,609 ; Calling artist lookup webservice for artist_id: 462614 Atrist :Toto
+INFO ; 2018-05-05 21:01:57,202 ; Calling album lookup webservice for artist_id: 462614 Atrist :Toto
+INFO ; 2018-05-05 21:02:00,238 ; Calling artist lookup webservice for artist_id: 570136838 Atrist :Tove Lo
+INFO ; 2018-05-05 21:02:01,473 ; Calling album lookup webservice for artist_id: 570136838 Atrist :Tove Lo
+INFO ; 2018-05-05 21:02:04,165 ; Calling artist lookup webservice for artist_id: 263699 Atrist :Traffic
+INFO ; 2018-05-05 21:02:05,452 ; Calling album lookup webservice for artist_id: 263699 Atrist :Traffic
+INFO ; 2018-05-05 21:02:09,192 ; Calling artist lookup webservice for artist_id: 13117650 Atrist :Transvision Vamp
+INFO ; 2018-05-05 21:02:10,812 ; Calling album lookup webservice for artist_id: 13117650 Atrist :Transvision Vamp
+INFO ; 2018-05-05 21:02:13,641 ; Calling artist lookup webservice for artist_id: 283453767 Atrist :Tritonal
+INFO ; 2018-05-05 21:02:14,862 ; Calling album lookup webservice for artist_id: 283453767 Atrist :Tritonal
+INFO ; 2018-05-05 21:02:17,994 ; Calling artist lookup webservice for artist_id: 78500 Atrist :U2
+INFO ; 2018-05-05 21:02:19,581 ; Calling album lookup webservice for artist_id: 78500 Atrist :U2
+INFO ; 2018-05-05 21:02:22,346 ; Calling artist lookup webservice for artist_id: 117832 Atrist :Ugly Kid Joe
+INFO ; 2018-05-05 21:02:23,563 ; Calling album lookup webservice for artist_id: 117832 Atrist :Ugly Kid Joe
+INFO ; 2018-05-05 21:02:27,318 ; Calling artist lookup webservice for artist_id: 19082206 Atrist :Unni Menon
+INFO ; 2018-05-05 21:02:29,312 ; Calling album lookup webservice for artist_id: 19082206 Atrist :Unni Menon
+INFO ; 2018-05-05 21:02:32,280 ; Calling artist lookup webservice for artist_id: 139775 Atrist :Uriah Heep
+INFO ; 2018-05-05 21:02:33,536 ; Calling album lookup webservice for artist_id: 139775 Atrist :Uriah Heep
+INFO ; 2018-05-05 21:02:37,735 ; Calling artist lookup webservice for artist_id: 166529 Atrist :Van Halen
+INFO ; 2018-05-05 21:02:39,187 ; Calling album lookup webservice for artist_id: 166529 Atrist :Van Halen
+INFO ; 2018-05-05 21:02:43,000 ; Calling artist lookup webservice for artist_id: 20510558 Atrist :Vijay Yesudas
+INFO ; 2018-05-05 21:02:44,262 ; Calling album lookup webservice for artist_id: 20510558 Atrist :Vijay Yesudas
+INFO ; 2018-05-05 21:02:47,195 ; Calling artist lookup webservice for artist_id: 51097 Atrist :Village People
+INFO ; 2018-05-05 21:02:48,774 ; Calling album lookup webservice for artist_id: 51097 Atrist :Village People
+INFO ; 2018-05-05 21:02:52,980 ; Calling artist lookup webservice for artist_id: 306009582 Atrist :Vineeth Sreenivasan
+INFO ; 2018-05-05 21:02:54,207 ; Calling album lookup webservice for artist_id: 306009582 Atrist :Vineeth Sreenivasan
+INFO ; 2018-05-05 21:02:59,357 ; Calling artist lookup webservice for artist_id: 721637688 Atrist :Vinod Varma
+INFO ; 2018-05-05 21:03:00,785 ; Calling album lookup webservice for artist_id: 721637688 Atrist :Vinod Varma
+WARNING ; 2018-05-05 21:03:02,023 ; Key error artist 721637688 Atrist :Vinod Varma
+INFO ; 2018-05-05 21:03:03,304 ; Calling artist lookup webservice for artist_id: 1122724192 Atrist :Wet Hot American Summer Cast
+INFO ; 2018-05-05 21:03:04,565 ; Calling album lookup webservice for artist_id: 1122724192 Atrist :Wet Hot American Summer Cast
+WARNING ; 2018-05-05 21:03:06,155 ; Key error artist 1122724192 Atrist :Wet Hot American Summer Cast
+INFO ; 2018-05-05 21:03:07,987 ; Calling artist lookup webservice for artist_id: 548421 Atrist :Wham!
+INFO ; 2018-05-05 21:03:09,437 ; Calling album lookup webservice for artist_id: 548421 Atrist :Wham!
+INFO ; 2018-05-05 21:03:12,364 ; Calling artist lookup webservice for artist_id: 107115 Atrist :Whitesnake
+INFO ; 2018-05-05 21:03:13,797 ; Calling album lookup webservice for artist_id: 107115 Atrist :Whitesnake
+INFO ; 2018-05-05 21:03:16,677 ; Calling artist lookup webservice for artist_id: 13952 Atrist :Whitney Houston
+INFO ; 2018-05-05 21:03:18,273 ; Calling album lookup webservice for artist_id: 13952 Atrist :Whitney Houston
+INFO ; 2018-05-05 21:03:21,669 ; Calling artist lookup webservice for artist_id: 1049805646 Atrist :Yall
+INFO ; 2018-05-05 21:03:22,924 ; Calling album lookup webservice for artist_id: 1049805646 Atrist :Yall
+INFO ; 2018-05-05 21:03:25,943 ; Calling artist lookup webservice for artist_id: 549604097 Atrist :Yazin Nizar
+INFO ; 2018-05-05 21:03:27,494 ; Calling album lookup webservice for artist_id: 549604097 Atrist :Yazin Nizar
+INFO ; 2018-05-05 21:03:30,888 ; Calling artist lookup webservice for artist_id: 424044507 Atrist :Yelawolf
+INFO ; 2018-05-05 21:03:32,145 ; Calling album lookup webservice for artist_id: 424044507 Atrist :Yelawolf
+INFO ; 2018-05-05 21:03:35,096 ; Calling artist lookup webservice for artist_id: 154011 Atrist :Yes
+INFO ; 2018-05-05 21:03:36,725 ; Calling album lookup webservice for artist_id: 154011 Atrist :Yes
+INFO ; 2018-05-05 21:03:40,349 ; Calling artist lookup webservice for artist_id: 522173695 Atrist :ZZ Ward
+INFO ; 2018-05-05 21:03:41,871 ; Calling album lookup webservice for artist_id: 522173695 Atrist :ZZ Ward
+INFO ; 2018-05-05 21:03:44,541 ; Calling artist lookup webservice for artist_id: 990061985 Atrist :Zia Ul Haq
+INFO ; 2018-05-05 21:03:46,180 ; Calling album lookup webservice for artist_id: 990061985 Atrist :Zia Ul Haq
+INFO ; 2018-05-05 21:03:49,899 ; Calling artist lookup webservice for artist_id: 166566 Atrist :a-ha
+INFO ; 2018-05-05 21:03:51,256 ; Calling album lookup webservice for artist_id: 166566 Atrist :a-ha
+INFO ; 2018-05-05 21:03:53,831 ; Calling artist lookup webservice for artist_id: 116851 Atrist :blink-182
+INFO ; 2018-05-05 21:03:55,378 ; Calling album lookup webservice for artist_id: 116851 Atrist :blink-182
+INFO ; 2018-05-05 21:03:58,297 ; Calling artist lookup webservice for artist_id: 78011850 Atrist :deadmau5 vs. Eric Prydz
+INFO ; 2018-05-05 21:03:59,892 ; Calling album lookup webservice for artist_id: 78011850 Atrist :deadmau5 vs. Eric Prydz
+INFO ; 2018-05-05 21:04:02,580 ; Calling artist lookup webservice for artist_id: 6906197 Atrist :Foo Fighters
+INFO ; 2018-05-05 21:04:03,632 ; Calling album lookup webservice for artist_id: 6906197 Atrist :Foo Fighters
+INFO ; 2018-05-05 21:04:06,977 ; Calling artist lookup webservice for artist_id: 16996557 Atrist :Fool's Garden
+INFO ; 2018-05-05 21:04:08,568 ; Calling album lookup webservice for artist_id: 16996557 Atrist :Fool's Garden
+INFO ; 2018-05-05 21:04:12,040 ; Calling artist lookup webservice for artist_id: 255233 Atrist :George Harrison
+INFO ; 2018-05-05 21:04:13,287 ; Calling album lookup webservice for artist_id: 255233 Atrist :George Harrison
+INFO ; 2018-05-05 21:04:16,824 ; Calling artist lookup webservice for artist_id: 894337 Atrist :George Michael
+INFO ; 2018-05-05 21:04:18,427 ; Calling album lookup webservice for artist_id: 894337 Atrist :George Michael
+INFO ; 2018-05-05 21:04:21,593 ; Calling artist lookup webservice for artist_id: 398120 Atrist :*NSYNC
+INFO ; 2018-05-05 21:04:22,646 ; Calling album lookup webservice for artist_id: 398120 Atrist :*NSYNC
+INFO ; 2018-05-05 21:04:25,232 ; Calling artist lookup webservice for artist_id: 405340 Atrist :10cc
+INFO ; 2018-05-05 21:04:26,733 ; Calling album lookup webservice for artist_id: 405340 Atrist :10cc
+INFO ; 2018-05-05 21:04:30,187 ; Calling artist lookup webservice for artist_id: 362923 Atrist :4 Non Blondes
+INFO ; 2018-05-05 21:04:31,286 ; Calling album lookup webservice for artist_id: 362923 Atrist :4 Non Blondes
+INFO ; 2018-05-05 21:04:33,918 ; Calling artist lookup webservice for artist_id: 372976 Atrist :ABBA
+INFO ; 2018-05-05 21:04:34,927 ; Calling album lookup webservice for artist_id: 372976 Atrist :ABBA
+INFO ; 2018-05-05 21:04:38,358 ; Calling artist lookup webservice for artist_id: 371362363 Atrist :AWOLNATION
+INFO ; 2018-05-05 21:04:39,938 ; Calling album lookup webservice for artist_id: 371362363 Atrist :AWOLNATION
+INFO ; 2018-05-05 21:04:42,536 ; Calling artist lookup webservice for artist_id: 318648496 Atrist :Abeer Nehme
+INFO ; 2018-05-05 21:04:43,586 ; Calling album lookup webservice for artist_id: 318648496 Atrist :Abeer Nehme
+INFO ; 2018-05-05 21:04:46,758 ; Calling artist lookup webservice for artist_id: 262836961 Atrist :Adele
+INFO ; 2018-05-05 21:04:48,089 ; Calling album lookup webservice for artist_id: 262836961 Atrist :Adele
+INFO ; 2018-05-05 21:04:51,118 ; Calling artist lookup webservice for artist_id: 115386 Atrist :Aerosmith
+INFO ; 2018-05-05 21:04:52,112 ; Calling album lookup webservice for artist_id: 115386 Atrist :Aerosmith
+INFO ; 2018-05-05 21:04:55,006 ; Calling artist lookup webservice for artist_id: 13563 Atrist :Air Supply
+INFO ; 2018-05-05 21:04:56,379 ; Calling album lookup webservice for artist_id: 13563 Atrist :Air Supply
+INFO ; 2018-05-05 21:04:59,700 ; Calling artist lookup webservice for artist_id: 80646557 Atrist :Akcent
+INFO ; 2018-05-05 21:05:01,274 ; Calling album lookup webservice for artist_id: 80646557 Atrist :Akcent
+INFO ; 2018-05-05 21:05:03,803 ; Calling artist lookup webservice for artist_id: 3261325 Atrist :Akon
+INFO ; 2018-05-05 21:05:04,811 ; Calling album lookup webservice for artist_id: 3261325 Atrist :Akon
+INFO ; 2018-05-05 21:05:08,340 ; Calling artist lookup webservice for artist_id: 1062085272 Atrist :Alan Walker
+INFO ; 2018-05-05 21:05:09,691 ; Calling album lookup webservice for artist_id: 1062085272 Atrist :Alan Walker
+INFO ; 2018-05-05 21:05:12,555 ; Calling artist lookup webservice for artist_id: 5519575 Atrist :Alannah Myles
+INFO ; 2018-05-05 21:05:13,563 ; Calling album lookup webservice for artist_id: 5519575 Atrist :Alannah Myles
+INFO ; 2018-05-05 21:05:16,768 ; Calling artist lookup webservice for artist_id: 4157274 Atrist :Alphaville
+INFO ; 2018-05-05 21:05:18,091 ; Calling album lookup webservice for artist_id: 4157274 Atrist :Alphaville
+INFO ; 2018-05-05 21:05:21,655 ; Calling artist lookup webservice for artist_id: 73789273 Atrist :Alter Bridge
+INFO ; 2018-05-05 21:05:22,876 ; Calling album lookup webservice for artist_id: 73789273 Atrist :Alter Bridge
+INFO ; 2018-05-05 21:05:25,430 ; Calling artist lookup webservice for artist_id: 1143470196 Atrist :Antony Daasan
+INFO ; 2018-05-05 21:05:26,773 ; Calling album lookup webservice for artist_id: 1143470196 Atrist :Antony Daasan
+WARNING ; 2018-05-05 21:05:28,382 ; Key error artist 1143470196 Atrist :Antony Daasan
+INFO ; 2018-05-05 21:05:30,785 ; Calling artist lookup webservice for artist_id: 449345392 Atrist :Anwar Sadath
+INFO ; 2018-05-05 21:05:31,815 ; Calling album lookup webservice for artist_id: 449345392 Atrist :Anwar Sadath
+INFO ; 2018-05-05 21:05:34,564 ; Calling artist lookup webservice for artist_id: 412778295 Atrist :Ariana Grande
+INFO ; 2018-05-05 21:05:36,005 ; Calling album lookup webservice for artist_id: 412778295 Atrist :Ariana Grande
+WARNING ; 2018-05-05 21:05:39,182 ; Artist : Celine Dion not found from itunes search
+INFO ; 2018-05-05 21:05:41,313 ; Calling artist lookup webservice for artist_id: 117730958 Atrist :Deepak Dev
+INFO ; 2018-05-05 21:05:42,773 ; Calling album lookup webservice for artist_id: 117730958 Atrist :Deepak Dev
+INFO ; 2018-05-05 21:05:45,842 ; Calling artist lookup webservice for artist_id: 770717104 Atrist :K. S. Chithra
+INFO ; 2018-05-05 21:05:47,327 ; Calling album lookup webservice for artist_id: 770717104 Atrist :K. S. Chithra
+INFO ; 2018-05-05 21:05:50,577 ; Calling artist lookup webservice for artist_id: 368536108 Atrist :Kamal Haasan
+INFO ; 2018-05-05 21:05:51,818 ; Calling album lookup webservice for artist_id: 368536108 Atrist :Kamal Haasan
+INFO ; 2018-05-05 21:05:55,395 ; Calling artist lookup webservice for artist_id: 21409804 Atrist :Mathangi
+INFO ; 2018-05-05 21:05:56,950 ; Calling album lookup webservice for artist_id: 21409804 Atrist :Mathangi
+INFO ; 2018-05-05 21:06:00,481 ; Calling artist lookup webservice for artist_id: 274495198 Atrist :Naresh Iyer
+INFO ; 2018-05-05 21:06:01,771 ; Calling album lookup webservice for artist_id: 274495198 Atrist :Naresh Iyer
+INFO ; 2018-05-05 21:06:05,068 ; Calling artist lookup webservice for artist_id: 254650471 Atrist :Haricharan
+INFO ; 2018-05-05 21:06:06,951 ; Calling album lookup webservice for artist_id: 254650471 Atrist :Haricharan
+WARNING ; 2018-05-05 21:06:10,428 ; Artist : Jimmy Hart not found from itunes search
+INFO ; 2018-05-05 21:06:12,080 ; Calling artist lookup webservice for artist_id: 889327 Atrist :Shakira
+INFO ; 2018-05-05 21:06:13,146 ; Calling album lookup webservice for artist_id: 889327 Atrist :Shakira
+INFO ; 2018-05-05 21:06:15,847 ; Calling artist lookup webservice for artist_id: 129974 Atrist :Shania Twain
+INFO ; 2018-05-05 21:06:17,337 ; Calling album lookup webservice for artist_id: 129974 Atrist :Shania Twain
+INFO ; 2018-05-05 21:06:20,820 ; Calling artist lookup webservice for artist_id: 13493906 Atrist :Sia
+INFO ; 2018-05-05 21:06:21,909 ; Calling album lookup webservice for artist_id: 13493906 Atrist :Sia

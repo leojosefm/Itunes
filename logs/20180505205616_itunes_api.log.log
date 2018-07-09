@@ -1,0 +1,122 @@
+INFO ; 2018-05-05 20:56:16,250 ; Process started
+INFO ; 2018-05-05 20:56:16,337 ; Connected to Oracle
+INFO ; 2018-05-05 20:56:16,764 ; Calling artist lookup webservice for artist_id: 1293015670 Atrist :Peter Amstrong
+WARNING ; 2018-05-05 20:56:16,959 ; No results for artist : Peter Amstrong
+WARNING ; 2018-05-05 20:56:17,277 ; No results for artist : Shaan Rahman
+WARNING ; 2018-05-05 20:56:17,528 ; No results for artist : Shawn Mendes
+WARNING ; 2018-05-05 20:56:17,891 ; No results for artist : Sheryl Crow
+WARNING ; 2018-05-05 20:56:18,317 ; No results for artist : Shirley
+WARNING ; 2018-05-05 20:56:18,651 ; No results for artist : Shreekumar Vakkiyil
+WARNING ; 2018-05-05 20:56:18,882 ; No results for artist : Sin ad O'Connor
+WARNING ; 2018-05-05 20:56:19,117 ; No results for artist : Sly Fox
+WARNING ; 2018-05-05 20:56:19,419 ; No results for artist : Soundgarden
+WARNING ; 2018-05-05 20:56:19,674 ; No results for artist : Spice Girls
+WARNING ; 2018-05-05 20:56:19,984 ; No results for artist : Squeeze
+WARNING ; 2018-05-05 20:56:20,356 ; No results for artist : Stevie Wonder
+WARNING ; 2018-05-05 20:56:20,667 ; No results for artist : Sting
+WARNING ; 2018-05-05 20:56:21,085 ; No results for artist : Strange Talk
+WARNING ; 2018-05-05 20:56:21,357 ; No results for artist : Styx
+WARNING ; 2018-05-05 20:56:21,665 ; No results for artist : Sum 41
+WARNING ; 2018-05-05 20:56:21,928 ; No results for artist : Supertramp
+WARNING ; 2018-05-05 20:56:22,233 ; No results for artist : Suzanne Vega
+WARNING ; 2018-05-05 20:56:22,541 ; No results for artist : Take That
+WARNING ; 2018-05-05 20:56:22,944 ; No results for artist : Taylor Swift
+WARNING ; 2018-05-05 20:56:23,275 ; No results for artist : Tears for Fears
+WARNING ; 2018-05-05 20:56:23,576 ; No results for artist : Tesla
+WARNING ; 2018-05-05 20:56:23,829 ; No results for artist : Thakara
+WARNING ; 2018-05-05 20:56:24,199 ; No results for artist : The Allman Brothers Band
+WARNING ; 2018-05-05 20:56:24,472 ; No results for artist : The Bangles
+WARNING ; 2018-05-05 20:56:24,997 ; No results for artist : The Beatles
+WARNING ; 2018-05-05 20:56:25,345 ; No results for artist : The Black Eyed Peas
+WARNING ; 2018-05-05 20:56:25,802 ; No results for artist : The Brothers Johnson
+WARNING ; 2018-05-05 20:56:26,122 ; No results for artist : The Buggles
+WARNING ; 2018-05-05 20:56:26,577 ; No results for artist : The Cardigans
+WARNING ; 2018-05-05 20:56:26,939 ; No results for artist : The Cars
+WARNING ; 2018-05-05 20:56:27,360 ; No results for artist : The Cataracs
+WARNING ; 2018-05-05 20:56:27,666 ; No results for artist : The Chainsmokers
+WARNING ; 2018-05-05 20:56:27,962 ; No results for artist : The Corrs
+WARNING ; 2018-05-05 20:56:28,255 ; No results for artist : The Cranberries
+WARNING ; 2018-05-05 20:56:28,703 ; No results for artist : The Damned
+WARNING ; 2018-05-05 20:56:29,008 ; No results for artist : The Doors
+WARNING ; 2018-05-05 20:56:29,400 ; No results for artist : The Flying Burrito Brothers
+WARNING ; 2018-05-05 20:56:29,801 ; No results for artist : The Goo Goo Dolls
+WARNING ; 2018-05-05 20:56:30,114 ; No results for artist : The Hooters
+WARNING ; 2018-05-05 20:56:30,402 ; No results for artist : The Human League
+WARNING ; 2018-05-05 20:56:30,714 ; No results for artist : The Jam
+WARNING ; 2018-05-05 20:56:31,046 ; No results for artist : The Jets
+WARNING ; 2018-05-05 20:56:31,362 ; No results for artist : The Killers
+WARNING ; 2018-05-05 20:56:31,676 ; No results for artist : The Police
+WARNING ; 2018-05-05 20:56:31,983 ; No results for artist : The Presets
+WARNING ; 2018-05-05 20:56:32,482 ; No results for artist : The Proclaimers
+WARNING ; 2018-05-05 20:56:32,998 ; No results for artist : The Rolling Stones
+WARNING ; 2018-05-05 20:56:33,463 ; No results for artist : The Scorps
+WARNING ; 2018-05-05 20:56:33,781 ; No results for artist : The Spencer Davis Group
+WARNING ; 2018-05-05 20:56:34,099 ; No results for artist : The Stranglers
+WARNING ; 2018-05-05 20:56:34,396 ; No results for artist : The Weeknd
+WARNING ; 2018-05-05 20:56:34,958 ; No results for artist : Thin Lizzy
+WARNING ; 2018-05-05 20:56:35,504 ; No results for artist : Three Dog Night
+WARNING ; 2018-05-05 20:56:35,801 ; No results for artist : Ti sto
+WARNING ; 2018-05-05 20:56:36,122 ; No results for artist : Tim McGraw
+WARNING ; 2018-05-05 20:56:36,574 ; No results for artist : Tin Tin Out Featuring Emma Bunton
+WARNING ; 2018-05-05 20:56:36,877 ; No results for artist : Tom Petty
+WARNING ; 2018-05-05 20:56:37,451 ; No results for artist : Tom Tom Club
+WARNING ; 2018-05-05 20:56:37,702 ; No results for artist : Toto
+WARNING ; 2018-05-05 20:56:37,955 ; No results for artist : Tove Lo
+WARNING ; 2018-05-05 20:56:38,274 ; No results for artist : Traffic
+WARNING ; 2018-05-05 20:56:38,522 ; No results for artist : Transvision Vamp
+WARNING ; 2018-05-05 20:56:38,779 ; No results for artist : Tritonal
+WARNING ; 2018-05-05 20:56:39,167 ; No results for artist : U2
+WARNING ; 2018-05-05 20:56:39,616 ; No results for artist : Ugly Kid Joe
+WARNING ; 2018-05-05 20:56:39,929 ; No results for artist : Unni Menon
+WARNING ; 2018-05-05 20:56:40,365 ; No results for artist : Uriah Heep
+WARNING ; 2018-05-05 20:56:40,679 ; No results for artist : Van Halen
+WARNING ; 2018-05-05 20:56:41,245 ; No results for artist : Vijay Yesudas
+WARNING ; 2018-05-05 20:56:41,569 ; No results for artist : Village People
+WARNING ; 2018-05-05 20:56:41,896 ; No results for artist : Vineeth Sreenivasan
+WARNING ; 2018-05-05 20:56:42,228 ; No results for artist : Vinod Varma
+WARNING ; 2018-05-05 20:56:42,540 ; No results for artist : Wet Hot American Summer Cast
+WARNING ; 2018-05-05 20:56:42,867 ; No results for artist : Wham!
+WARNING ; 2018-05-05 20:56:43,479 ; No results for artist : Whitesnake
+WARNING ; 2018-05-05 20:56:43,849 ; No results for artist : Whitney Houston
+WARNING ; 2018-05-05 20:56:44,188 ; No results for artist : Yall
+WARNING ; 2018-05-05 20:56:44,512 ; No results for artist : Yazin Nizar
+WARNING ; 2018-05-05 20:56:45,009 ; No results for artist : Yelawolf
+WARNING ; 2018-05-05 20:56:45,342 ; No results for artist : Yes
+WARNING ; 2018-05-05 20:56:45,649 ; No results for artist : ZZ Ward
+WARNING ; 2018-05-05 20:56:45,944 ; No results for artist : Zia Ul Haq
+WARNING ; 2018-05-05 20:56:46,390 ; No results for artist : a-ha
+WARNING ; 2018-05-05 20:56:46,692 ; No results for artist : blink-182
+WARNING ; 2018-05-05 20:56:46,990 ; No results for artist : deadmau5 vs. Eric Prydz
+WARNING ; 2018-05-05 20:56:47,431 ; No results for artist : Foo Fighters
+WARNING ; 2018-05-05 20:56:47,741 ; No results for artist : Fool's Garden
+WARNING ; 2018-05-05 20:56:48,043 ; No results for artist : George Harrison
+WARNING ; 2018-05-05 20:56:48,574 ; No results for artist : George Michael
+WARNING ; 2018-05-05 20:56:48,837 ; No results for artist : *NSYNC
+WARNING ; 2018-05-05 20:56:49,084 ; No results for artist : 10cc
+WARNING ; 2018-05-05 20:56:49,439 ; No results for artist : 4 Non Blondes
+WARNING ; 2018-05-05 20:56:49,875 ; No results for artist : ABBA
+WARNING ; 2018-05-05 20:56:50,139 ; No results for artist : AWOLNATION
+WARNING ; 2018-05-05 20:56:50,430 ; No results for artist : Abeer Nehme
+WARNING ; 2018-05-05 20:56:50,729 ; No results for artist : Adele
+WARNING ; 2018-05-05 20:56:50,963 ; No results for artist : Aerosmith
+WARNING ; 2018-05-05 20:56:51,269 ; No results for artist : Air Supply
+WARNING ; 2018-05-05 20:56:51,576 ; No results for artist : Akcent
+WARNING ; 2018-05-05 20:56:51,878 ; No results for artist : Akon
+WARNING ; 2018-05-05 20:56:52,126 ; No results for artist : Alan Walker
+WARNING ; 2018-05-05 20:56:52,376 ; No results for artist : Alannah Myles
+WARNING ; 2018-05-05 20:56:52,685 ; No results for artist : Alphaville
+WARNING ; 2018-05-05 20:56:53,013 ; No results for artist : Alter Bridge
+WARNING ; 2018-05-05 20:56:53,333 ; No results for artist : Antony Daasan
+WARNING ; 2018-05-05 20:56:53,645 ; No results for artist : Anwar Sadath
+WARNING ; 2018-05-05 20:56:53,958 ; No results for artist : Ariana Grande
+WARNING ; 2018-05-05 20:56:54,282 ; No results for artist : Celine Dion
+WARNING ; 2018-05-05 20:56:54,635 ; No results for artist : Deepak Dev
+WARNING ; 2018-05-05 20:56:54,975 ; No results for artist : K. S. Chithra
+WARNING ; 2018-05-05 20:56:55,781 ; No results for artist : Kamal Haasan
+WARNING ; 2018-05-05 20:56:56,066 ; No results for artist : Mathangi
+WARNING ; 2018-05-05 20:56:56,385 ; No results for artist : Naresh Iyer
+WARNING ; 2018-05-05 20:56:56,851 ; No results for artist : Haricharan
+WARNING ; 2018-05-05 20:56:57,395 ; No results for artist : Jimmy Hart
+WARNING ; 2018-05-05 20:56:57,789 ; No results for artist : Shakira
+WARNING ; 2018-05-05 20:56:58,278 ; No results for artist : Shania Twain
+WARNING ; 2018-05-05 20:56:58,617 ; No results for artist : Sia
