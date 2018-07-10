@@ -9,20 +9,20 @@ It also use itunes webservice to update an aritists top albums, primary genre et
 3. itunes.sql :- This script contains SQL Statements for creating all the Oracle Objects required : Tables/Views/Triggers required for Data loading and Analysis
 
 ## Analytics
-# 1. Top 15 Artists
+### 1. Top 15 Artists
 Oracle View : VIEW_TOP_15_ARTISTS will give top 15 artists from the library based on their songs playcount, number of songs in the library and also other details like their primary genre, most played song etc.
 
-# 2. Top 25 Songs
+### 2. Top 25 Songs
 Oracle View: VIEW_TOP_25_SONGS gives most played 25 songs.
 
-# 3. Most Skipped Songs
+### 3. Most Skipped Songs
 Oracle View: VIEW_MOST_SKIPPED gives most skipped songs.
 
-# 4. Genre Distribution
+### 4. Genre Distribution
 Oracle View: VIEW_PLAY_COUNT_DISTRIBUTION gives information on what Genre has more songs, played more etc
 
-# 5. Song Era
+### 5. Song Era
 Oracle View: VIEW_TIME_BUCKET gives information on how many songs are there in the library from each decade.
 
-# 6. Most recently played
+### 6. Most recently played
 Oracle view : VIEW_MOST_RECENTLY_PLAYED gives most recently played songs. This is calculated by the difference in Playcount from previous loads
