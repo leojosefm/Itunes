@@ -5,7 +5,7 @@ It also use itunes webservice to update an aritists top albums, primary genre et
 
 ## Script
 1. myitunes.py :- This script reads library xml file from local PC (C:\\Users\\<User>\\Music\\iTunes) and loads the Oracle tables (Express edition) installed on local machine.
-2. itunes.py :- This script fetches more information like primary genre, most popular albums etc about the all the artists  present in the itunes library 
+2. itunes.py :- This script fetches more information like primary genre, most popular albums etc about the all the artists  present in the itunes library from https://itunes.apple.com
 3. itunes.sql :- This script contains SQL Statements for creating all the Oracle Objects required : Tables/Views/Triggers required for Data loading and Analysis
 
 ## Analytics
