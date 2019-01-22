@@ -8,6 +8,10 @@ It also use itunes webservice to update an aritists top albums, primary genre et
 2. itunes.py :- This script fetches more information like primary genre, most popular albums etc about the all the artists  present in the itunes library from https://itunes.apple.com
 3. itunes.sql :- This script contains SQL Statements for creating all the Oracle Objects required : Tables/Views/Triggers required for Data loading and Analysis
 
+## PL/SQL
+SP_ARTISTS_NORMALIZATION: This stored procedure is for elimination repeating groups in ARTISTS column
+eg) Enrique & Sean Paull :- into two different record 1) Enrique 2) Sean Paull
+
 ## Analytics
 ### 1. Top 15 Artists
 Oracle View : VIEW_TOP_15_ARTISTS will give top 15 artists from the library based on their songs playcount, number of songs in the library and also other details like their primary genre, most played song etc.
